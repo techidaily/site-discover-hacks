@@ -1,7 +1,7 @@
 ---
 title: Eliminar Elementos De Fondo Del Video Con Técnicas Avanzadas, No Necesitas Pantalla Verde!
-date: 2024-09-30T16:43:03.994Z
-updated: 2024-10-06T02:02:49.580Z
+date: 2024-10-05T16:25:38.251Z
+updated: 2024-10-11T16:44:43.919Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0b4d1113a2acbab23df9184b.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -176,11 +183,31 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -210,13 +237,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -234,6 +254,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -285,13 +312,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -325,16 +345,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -390,10 +404,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
@@ -430,10 +444,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -442,21 +456,7 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -509,6 +509,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -565,13 +572,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -607,24 +607,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[New] 2024 Approved A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform-for-2024/"><u>[New] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-value-budget-friendly-pros-for-high-impact-sports/"><u>[Updated] 2024 Approved Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhancing-your-interview-impact-and-credibility/"><u>[Updated] 2024 Approved Enhancing Your Interview Impact and Credibility</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[Updated] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/accedez-a-la-perfection-visuelle-films-en-4k-ultra-hd-telechargements-faciles-et-maitrises/"><u>Accédez À La Perfection Visuelle : Films en 4K Ultra HD, Téléchargements Faciles Et Maîtrisés</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-practices-selecting-among-top-9-free-logo-designers/"><u>Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/choosing-the-right-codec-an-in-depth-comparison-of-mp4-and-mkv-formats/"><u>Choosing the Right Codec: An In-Depth Comparison of MP4 and MKV Formats</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/experto-en-asistencia-online-para-la-herramienta-de-extraccion-y-conversion-de-contenido-multimedia-con-winx/"><u>Experto en Asistencia Online Para La Herramienta De Extracción Y Conversión De Contenido Multimedia Con WinX</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-with-tom-comprehensive-guides-on-hardware-technology/"><u>Exploring Gadgets with Tom: Comprehensive Guides on Hardware Technology</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/get-your-free-h265-hevc-codec-for-seamless-4k8k-video-streaming-and-playback/"><u>Get Your Free H.265 HEVC Codec for Seamless 4K/8K Video Streaming and Playback</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gli-appuntamenti-piu-eccellenti-con-i-codec-video-hevch265-per-usi-mac-os-recensioni-e-confronti/"><u>Gli Appuntamenti Più Eccellenti Con I Codec Video HEVC/H.265 Per Usi Mac OS - Recensioni E Confronti!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/handbrake-hilfe-konvertierung-von-mov-in-mp4-schritt-fur-schritt-leitfaden-und-fehlerbehebungstipps/"><u>Handbrake-Hilfe: Konvertierung Von MOV in MP4 - Schritt-Für-Schritt-Leitfaden Und Fehlerbehebungstipps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/los-mejores-aplicaciones-de-captura-de-pantalla-para-windows-11-comparativa-y-guia-completa/"><u>Los Mejores Aplicaciones De Captura De Pantalla Para Windows 11: Comparativa Y Guía Completa</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/revitalize-vintage-images-using-winxvideos-artificial-intelligence-technology/"><u>Revitalize Vintage Images Using Winxvideo's Artificial Intelligence Technology</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transform-dvds-into-high-quality-mp4-files-fast-using-winx-dvd-ripper-platinum-h265hevc/"><u>Transform DVDs Into High-Quality MP4 Files Fast Using WinX DVD Ripper Platinum (H.265/HEVC)</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-to-top-quality-1440p-gaming-screens-without-breaking-your-piggy-bank/"><u>Unlocking the Secrets to Top Quality 1440P Gaming Screens Without Breaking Your Piggy Bank</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-make-a-video-with-photos-and-music-for-2024/"><u>Updated How to Make a Video with Photos and Music for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-revealed-top-5-ingenious-whatsapp-shortcuts-for-2024/"><u>[New] Revealed Top 5 Ingenious WhatsApp Shortcuts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ilent-youtube-browsing-for-iphones-and-androids/"><u>[New] Silent YouTube Browsing for iPhones and Androids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-iconic-locales-for-stream-video-quality/"><u>[Updated] 2024 Approved Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-capital-breakdown-starting-your-podcast/"><u>[Updated] Comprehensive Capital Breakdown Starting Your Podcast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ice-capped-inspiration-chinas-sports-spectacle/"><u>2024 Approved Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/dvdmp4aviwmvmkv/"><u>DVDフォーマット変換ガイド：MP4、AVI、WMV、MKVへの変換方法</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-facile-comment-copier-des-fichiers-video-dvd-sur-disque-dur-avec-windows-7-10-et-11-et-macos/"><u>Guide Facile : Comment Copier Des Fichiers Vidéo DVD Sur Disque Dur Avec Windows 7, 10 Et 11 ET macOS</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-pratique-pour-capturer-lecran-la-webcam-and-le-son-avec-winxvideo-ai-sur-windows/"><u>Guide Pratique Pour Capturer L’Écran, La Webcam & Le Son Avec Winxvideo AI Sur Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-40i-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 40i to PC? | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/real-time-broadcasting-made-easy-with-manycam-the-ultimate-live-streaming-and-virtual-camera-solution/"><u>Real-Time Broadcasting Made Easy with ManyCam: The Ultimate Live Streaming and Virtual Camera Solution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-best-virtual-music-production-suites-comparison-chart-included-for-2024/"><u>Updated Exploring the Best Virtual Music Production Suites – Comparison Chart Included for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/why-are-my-videos-flipped-in-instagram-written-by-michael-aaron-millman-and-richard-g-cox-jr/"><u>Why Are My Videos Flipped in Instagram' Written by Michael Aaron Millman and Richard G. Cox, Jr</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/winx-dvd-copy-pro-effortless-dvdiso-duplication-and-safe-backups-made-simple/"><u>WinX DVD Copy Pro: Effortless DVD/ISO Duplication and Safe Backups Made Simple</u></a></li>
 </ul></div>
 
