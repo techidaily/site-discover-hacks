@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2024-11-28T18:55:17.086Z
-updated: 2024-12-01T19:01:58.411Z
+date: 2024-12-04T05:15:14.243Z
+updated: 2024-12-08T22:50:45.158Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,17 +83,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-exemplary-6-skyline-minecraft-abodes/"><u>[Updated] 2024 Approved Exemplary 6 Skyline Minecraft Abodes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-is-integrating-itop-into-your-toolkit-advisable-for-2024/"><u>[Updated] Is Integrating ITop Into Your Toolkit Advisable for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-whats-your-take-home-pay-in-podcasting-for-2024/"><u>[Updated] What’s Your Take-Home Pay in Podcasting for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-trasforma-file-mpeg-in-formato-asf-on-line-gratuitamente-con-movavi/"><u>1. Trasforma File MPEG in Formato ASF On-Line Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aquatic-leisure-devices-for-sunbathing/"><u>Aquatic Leisure Devices for Sunbathing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/come-rimuovere-facilmente-i-tuoi-vecchi-ricordi-eliminazione-completa-delle-foto-dalliphone-13-e-iphone-14/"><u>Come Rimuovere Facilmente I Tuoi Vecchi Ricordi: Eliminazione Completa Delle Foto Dall'iPhone 13 E iPhone 14</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/outlook-missing-mail-learn-2-easy-ways-to-restore-deleted-emails/"><u>Outlook Missing Mail? Learn 2 Easy Ways to Restore Deleted Emails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/precision-editing-for-perfect-numbers-on-tiktok-videos-for-2024/"><u>Precision Editing for Perfect Numbers on TikTok Videos for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-migrating-your-ssd-drive-content-to-hdd-under-windows-11s-secure-boot-feature/"><u>Step-by-Step Guide: Migrating Your SSD Drive Content to HDD Under Windows 11'S Secure Boot Feature</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/perenos-dannyh-s-odnogo-ssd-na-drugoj-bystrye-i-proverennye-sposoby/"><u>Перенос Данных С Одного SSD На Другой: Быстрые И Проверенные Способы</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/poshagovoe-rukovodstvo-po-kopirovaniyu-dannyh-s-hdd-na-ssd/"><u>Пошаговое Руководство По Копированию Данных С HDD На SSD</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] In 2024, Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In 2024, In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-focus-top-gimbal-systems-for-dynamic-shooting/"><u>2024 Approved Mobile Focus Top Gimbal Systems for Dynamic Shooting</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/beginners-tutorial-on-procuring-virtual-tokens-expert-advice-from-yl-software-solutions/"><u>Beginner's Tutorial on Procuring Virtual Tokens: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/compatibility-guide-understanding-which-windows-versions-are-covered-by-windows-defender/"><u>Compatibility Guide: Understanding Which Windows Versions Are Covered by Windows Defender</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comprehensive-guide-to-preventing-virus-infections-on-your-computer-with-tips-from-yl-software-experts/"><u>Comprehensive Guide to Preventing Virus Infections on Your Computer with Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-solutions-for-troubleshooting-incorrect-printer-outputs-insights-from-yl-computings-expertise/"><u>Effective Solutions for Troubleshooting Incorrect Printer Outputs: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-note-30-vip-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Note 30 VIP to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-value-in-your-cloud-service-expenditure/"><u>In 2024, Maximizing Value in Your Cloud Service Expenditure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-the-world-of-instagram-stories-easily/"><u>In 2024, Navigating the World of Instagram Stories Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-transforming-data-into-strategic-content-moves/"><u>In 2024, Transforming Data Into Strategic Content Moves</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973880530-install-your-steelseries-keyboard-essential-drivers-available-here/"><u>Install Your SteelSeries Keyboard: Essential Drivers Available Here!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/the-future-of-cryptocurrencies-transforming-the-global-economy-a-deep-dive-by-yl-software-experts/"><u>The Future of Cryptocurrencies: Transforming the Global Economy - A Deep Dive by YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-and-resolving-bad-ram-issues-with-expert-advice-by-yl-software-experts/"><u>Troubleshooting and Resolving Bad RAM Issues with Expert Advice by YL Software Experts</u></a></li>
 </ul></div>
 

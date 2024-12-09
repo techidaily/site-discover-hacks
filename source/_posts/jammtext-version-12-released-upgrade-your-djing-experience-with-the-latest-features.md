@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2024-11-29T22:01:48.727Z
-updated: 2024-12-01T22:30:19.744Z
+date: 2024-12-07T16:58:42.409Z
+updated: 2024-12-09T06:07:06.310Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,19 +70,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-examining-performance-of-dji-raptor-eyewear/"><u>[Updated] In 2024, Examining Performance of DJI Raptor Eyewear</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-secure-and-save-periscope-videos-with-these-tips-for-2024/"><u>[Updated] Secure & Save Periscope Videos with These Tips for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-covert-concepts-in-composing-captivating-images/"><u>2024 Approved Covert Concepts in Composing Captivating Images</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728487108243-windows-server/"><u>最新修正ガイド：Windows Serverの世代遅れバックアップ整理手順</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/como-realizar-la-migracion-de-windows-11-a-un-disco-ssd-nvme-pasos-completos-y-faciles/"><u>Cómo Realizar La Migración De Windows 11 a Un Disco SSD NVMe: Pasos Completos Y Fáciles</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/download-free-heic-image-viewer-software-for-multiple-windows-versions-7-8-10-11/"><u>Download Free HEIC Image Viewer Software for Multiple Windows Versions (7, 8, 10, 11)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/einfach-aktivieren-wie-der-sichere-boot-bei-deinem-windows-pc-in-windows-11-funktioniert/"><u>Einfach Aktivieren: Wie Der Sichere Boot Bei Deinem Windows-PC in Windows 11 Funktioniert</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/langzeitkompatible-windows-11-version-22h2-iso-herunterladen-ohne-komplikationen/"><u>Langzeitkompatible Windows 11 Version 22H2 ISO-Herunterladen Ohne Komplikationen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-m34-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy M34 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/streamlining-social-signals-with-tiktok-and-linktree-bio-mix/"><u>Streamlining Social Signals with TikTok and Linktree Bio Mix</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/windows-11drive/"><u>Windows 11上将文件夹从Drive转移到其他存储设备: 四种不同的步骤</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-cutting-edge-identifying-instagram-leavers-for-2024/"><u>[New] Cutting Edge Identifying Instagram Leavers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovative-techniques-for-unique-canon-timelapse-vids/"><u>[New] In 2024, Innovative Techniques for Unique Canon Timelapse Vids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decrypting-youtubes-view-count-calculation-system/"><u>2024 Approved Decrypting YouTube’s View-Count Calculation System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-with-gpt-3s-beta-web-integration-advances/"><u>Engage with GPT-3's Beta Web Integration Advances</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/exploring-the-driving-forces-and-intentions-of-the-chinese-boxer-movement-a-comprehensive-guide/"><u>Exploring the Driving Forces and Intentions of the Chinese Boxer Movement: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-diagnose-and-fix-a-fluctuating-network-connection-with-tips-from-yl-software-experts/"><u>How to Diagnose and Fix a Fluctuating Network Connection with Tips From YL Software Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-max-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-graphic-design-careers-successfully/"><u>In 2024, Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/symptoms-indicating-your-hard-drive-might-be-compromised-insights-by-yl-software/"><u>Symptoms Indicating Your Hard Drive Might Be Compromised - Insights by YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/ultimate-guide-eliminating-superfluous-files-effectively-techniques-by-yl-computing/"><u>Ultimate Guide: Eliminating Superfluous Files Effectively - Techniques by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-15-pro-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Pro Max by restoring</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-zoom-broadcasting-potential-for-youtube-success/"><u>Unlock Zoom Broadcasting Potential for YouTube Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-it-mean-when-your-ps4-d-pad-glows-interpreting-blue-white-red-and-orange-flashes/"><u>What Does It Mean When Your PS4 D-Pad Glows? Interpreting Blue, White, Red and Orange Flashes</u></a></li>
 </ul></div>
 
