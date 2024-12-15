@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2024-12-04T05:15:14.243Z
-updated: 2024-12-08T22:50:45.158Z
+date: 2024-12-08T16:41:21.642Z
+updated: 2024-12-15T18:05:11.287Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,19 +83,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] In 2024, Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In 2024, In-Depth Analysis Ultimate Storage Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-focus-top-gimbal-systems-for-dynamic-shooting/"><u>2024 Approved Mobile Focus Top Gimbal Systems for Dynamic Shooting</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/beginners-tutorial-on-procuring-virtual-tokens-expert-advice-from-yl-software-solutions/"><u>Beginner's Tutorial on Procuring Virtual Tokens: Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/compatibility-guide-understanding-which-windows-versions-are-covered-by-windows-defender/"><u>Compatibility Guide: Understanding Which Windows Versions Are Covered by Windows Defender</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comprehensive-guide-to-preventing-virus-infections-on-your-computer-with-tips-from-yl-software-experts/"><u>Comprehensive Guide to Preventing Virus Infections on Your Computer with Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-solutions-for-troubleshooting-incorrect-printer-outputs-insights-from-yl-computings-expertise/"><u>Effective Solutions for Troubleshooting Incorrect Printer Outputs: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-note-30-vip-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Note 30 VIP to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-value-in-your-cloud-service-expenditure/"><u>In 2024, Maximizing Value in Your Cloud Service Expenditure</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-the-world-of-instagram-stories-easily/"><u>In 2024, Navigating the World of Instagram Stories Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-transforming-data-into-strategic-content-moves/"><u>In 2024, Transforming Data Into Strategic Content Moves</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973880530-install-your-steelseries-keyboard-essential-drivers-available-here/"><u>Install Your SteelSeries Keyboard: Essential Drivers Available Here!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/the-future-of-cryptocurrencies-transforming-the-global-economy-a-deep-dive-by-yl-software-experts/"><u>The Future of Cryptocurrencies: Transforming the Global Economy - A Deep Dive by YL Software Experts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-and-resolving-bad-ram-issues-with-expert-advice-by-yl-software-experts/"><u>Troubleshooting and Resolving Bad RAM Issues with Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-littlecapture-reviews-on-small-recorder-apps/"><u>[New] 2024 Approved LittleCapture Reviews on Small Recorder Apps</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/adjust-your-language-and-regional-preferences-easily-a-step-by-step-guide-with-yl-software/"><u>Adjust Your Language & Regional Preferences Easily: A Step-by-Step Guide with YL Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>Browsing Like a Pro 5 Top Choices for Screen Capture Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-methods-for-deleting-unnecessary-cache-and-temp-data-on-your-pc-guidance-by-yl-computing/"><u>Effective Methods for Deleting Unnecessary Cache & Temp Data on Your PC - Guidance by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/expert-advice-on-handling-installed-software-with-windows-control-panel-by-yl-software-professionals/"><u>Expert Advice on Handling Installed Software with Windows Control Panel by YL Software Professionals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-creative-audigy-mb-audio-drivers-for-windows-10-free-downloads-available/"><u>Get the Latest Creative Audigy MB Audio Drivers for Windows 10 - Free Downloads Available</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/high-definition-abstract-hexagon-wallpapers-and-desktop-graphics-premium-digital-art-by-yl-computing/"><u>High-Definition Abstract Hexagon Wallpapers & Desktop Graphics - Premium Digital Art by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/high-resolution-phone-wallpaper-hd-backgrounds-and-photo-collections-premium-designs-by-yl-computing/"><u>High-Resolution Phone Wallpaper HD Backgrounds & Photo Collections - Premium Designs by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-effective-is-windows-defender-at-scanning-your-files-and-email-attachments-in-depth-review-by-techwise/"><u>How Effective Is Windows Defender at Scanning Your Files and Email Attachments? - In Depth Review by TechWise</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-change-your-preferred-language-on-flipbuilder-understanding-the-menu-bar-settings/"><u>How to Change Your Preferred Language on FlipBuilder: Understanding the Menu Bar Settings</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-verify-and-update-device-drivers-for-optimal-performance-expert-advice-by-yl-software-solutions/"><u>How to Verify and Update Device Drivers for Optimal Performance - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-design-tips-for-captivating-facebook-slideshows/"><u>In 2024, Design Tips for Captivating Facebook Slideshows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without PIN</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/polaris-or-the-north-star/"><u>Polaris or The North Star</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-fixing-tfla0002-secure-success-on-your-exam-day/"><u>The Ultimate Guide to Fixing TFLA0002 - Secure Success on Your Exam Day!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/trouble-with-your-screen-not-showing-anything-solutions-by-yl-software-experts/"><u>Trouble with Your Screen Not Showing Anything? Solutions by YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-how-to-fix-issues-when-print-results-differ-from-on-screen-preview-yl-software-guide/"><u>Troubleshooting: How to Fix Issues When Print Results Differ From On-Screen Preview - YL Software Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-modest-video-prowess-of-vixias-r800/"><u>Unpacking the Modest Video Prowess of VIXIA's R800</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark Go (2024)? | Dr.fone</u></a></li>
 </ul></div>
 
