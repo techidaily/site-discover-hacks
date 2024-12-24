@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2024-12-08T16:41:21.642Z
-updated: 2024-12-15T18:05:11.287Z
+date: 2024-12-21T16:05:22.077Z
+updated: 2024-12-24T16:05:19.826Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,24 +83,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-littlecapture-reviews-on-small-recorder-apps/"><u>[New] 2024 Approved LittleCapture Reviews on Small Recorder Apps</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/adjust-your-language-and-regional-preferences-easily-a-step-by-step-guide-with-yl-software/"><u>Adjust Your Language & Regional Preferences Easily: A Step-by-Step Guide with YL Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>Browsing Like a Pro 5 Top Choices for Screen Capture Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-methods-for-deleting-unnecessary-cache-and-temp-data-on-your-pc-guidance-by-yl-computing/"><u>Effective Methods for Deleting Unnecessary Cache & Temp Data on Your PC - Guidance by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/expert-advice-on-handling-installed-software-with-windows-control-panel-by-yl-software-professionals/"><u>Expert Advice on Handling Installed Software with Windows Control Panel by YL Software Professionals</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-creative-audigy-mb-audio-drivers-for-windows-10-free-downloads-available/"><u>Get the Latest Creative Audigy MB Audio Drivers for Windows 10 - Free Downloads Available</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/high-definition-abstract-hexagon-wallpapers-and-desktop-graphics-premium-digital-art-by-yl-computing/"><u>High-Definition Abstract Hexagon Wallpapers & Desktop Graphics - Premium Digital Art by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/high-resolution-phone-wallpaper-hd-backgrounds-and-photo-collections-premium-designs-by-yl-computing/"><u>High-Resolution Phone Wallpaper HD Backgrounds & Photo Collections - Premium Designs by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-effective-is-windows-defender-at-scanning-your-files-and-email-attachments-in-depth-review-by-techwise/"><u>How Effective Is Windows Defender at Scanning Your Files and Email Attachments? - In Depth Review by TechWise</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-change-your-preferred-language-on-flipbuilder-understanding-the-menu-bar-settings/"><u>How to Change Your Preferred Language on FlipBuilder: Understanding the Menu Bar Settings</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-verify-and-update-device-drivers-for-optimal-performance-expert-advice-by-yl-software-solutions/"><u>How to Verify and Update Device Drivers for Optimal Performance - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-design-tips-for-captivating-facebook-slideshows/"><u>In 2024, Design Tips for Captivating Facebook Slideshows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without PIN</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/polaris-or-the-north-star/"><u>Polaris or The North Star</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-fixing-tfla0002-secure-success-on-your-exam-day/"><u>The Ultimate Guide to Fixing TFLA0002 - Secure Success on Your Exam Day!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/trouble-with-your-screen-not-showing-anything-solutions-by-yl-software-experts/"><u>Trouble with Your Screen Not Showing Anything? Solutions by YL Software Experts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-how-to-fix-issues-when-print-results-differ-from-on-screen-preview-yl-software-guide/"><u>Troubleshooting: How to Fix Issues When Print Results Differ From On-Screen Preview - YL Software Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-modest-video-prowess-of-vixias-r800/"><u>Unpacking the Modest Video Prowess of VIXIA's R800</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-achieving-smooth-volume-decreases-using-lumafusion/"><u>[New] Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-beautys-brightest-stars-youtube-personalities-to-follow/"><u>[New] Beauty's Brightest Stars YouTube Personalities to Follow</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-freewinrecorder-straightforward-pc-screens/"><u>[New] FreeWinRecorder Straightforward PC Screens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-frameworks-for-every-movie-epilogue-you-dream/"><u>2024 Approved Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-meizu-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Meizu Phone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-computer-care-strategies-expert-advice-from-yl-computing-and-software/"><u>Effective Computer Care Strategies: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/high-definition-movie-category-icon-pack-by-yl-computing-professional-icos/"><u>High Definition Movie Category Icon Pack by YL Computing: Professional ICOs</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-quickly-refresh-your-windows-graphics-driver-with-yls-simple-troubleshooting-tips/"><u>How to Quickly Refresh Your Windows Graphics Driver with YL's Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-c12-plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia C12 Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-google-photos-complete-guide/"><u>In 2024, How to Google Photos [Complete Guide]</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mastering-crypto-market-trends-a-guide-to-interpreting-digital-asset-graphs-with-yl-computing-tools/"><u>Mastering Crypto Market Trends: A Guide to Interpreting Digital Asset Graphs with YL Computing Tools</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mastering-resource-management-enhancing-pc-performance-with-the-task-manager-a-guide-by-yl-computing/"><u>Mastering Resource Management: Enhancing PC Performance with the Task Manager - A Guide by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/modifying-auto-update-preferences-with-yl-computings-system-a-comprehensive-guide/"><u>Modifying Auto-Update Preferences with YL Computing's System: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-locating-and-updating-hardware-drivers-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Locating & Updating Hardware Drivers in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/the-ultimate-guide-to-becoming-a-skilled-mobile-disc-jockey-and-eloquent-emcee/"><u>The Ultimate Guide to Becoming a Skilled Mobile Disc Jockey & Eloquent Emcee</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/ultimate-guide-unpacking-compressed-files-with-ease-techniques-by-yl-computing/"><u>Ultimate Guide: Unpacking Compressed Files with Ease - Techniques by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-tutorial-on-transferring-windows-os-versions-win-11-10-8-to-a-portable-pen-drive-with-ease/"><u>Ultimate Tutorial on Transferring Windows OS Versions (Win 11, 10, 8, Ↄ) to a Portable Pen Drive with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-secrets-of-strong-openings-podcasters-guidebook/"><u>Unlocking Secrets of Strong Openings Podcaster's Guidebook</u></a></li>
 </ul></div>
 
