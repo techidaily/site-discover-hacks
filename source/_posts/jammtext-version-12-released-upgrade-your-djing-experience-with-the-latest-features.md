@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2024-12-23T16:09:18.305Z
-updated: 2024-12-24T16:05:38.070Z
+date: 2024-12-24T23:03:30.309Z
+updated: 2024-12-30T07:11:48.496Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,16 +70,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools-for-2024/"><u>[Updated] Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-speed-in-snapshots-auditory-recorded/"><u>[Updated] Speed in Snapshots Auditory Recorded</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-mike-from-dj-ntv-expertly-discusses-strategies-in-client-agreements-and-deals-dj-contract-guide-video/"><u>1. Mike From DJ NTV Expertly Discusses Strategies in Client Agreements and Deals - DJ Contract Guide Video</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-leveraging-background-footage-for-engaging-content/"><u>2024 Approved Leveraging Background Footage for Engaging Content</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/a-step-by-step-guide-performing-a-diagnostic-test-on-your-printer-with-yl-computing-solutions/"><u>A Step-by-Step Guide: Performing a Diagnostic Test on Your Printer with YL Computing Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/configuring-windows-network-cards-for-optimal-performance-with-yl-software-solutions/"><u>Configuring Windows Network Cards for Optimal Performance with YL Software Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/exploring-the-windows-data-recovery-process-unveiling-its-internal-file-system-strategies/"><u>Exploring the Windows Data Recovery Process: Unveiling Its Internal File System Strategies</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/hd-black-wolf-nature-walls-premium-wildlife-backgrounds-from-yl-computing/"><u>HD Black Wolf Nature Walls: Premium Wildlife Backgrounds From YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-pixel-perfection-portfolio-best-animation-transformation-tools/"><u>In 2024, Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-vn-video-editor-mobile-app-review-editing-made-easy/"><u>In 2024, VN Video Editor Mobile App Review Editing Made Easy?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-when-your-software-cant-locate-necessary-modules/"><u>Troubleshooting When Your Software Can't Locate Necessary Modules</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-strategies-for-success-on-ginger-island/"><u>[Updated] Expert Strategies for Success on Ginger Island</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>[Updated] In 2024, Capturing the Extremes Adobe's HDR Creation in Lightroom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[Updated] In 2024, The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-metaverse-comedy-crafting-memetic-gold/"><u>[Updated] Mastering Metaverse Comedy Crafting Memetic Gold</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-top-of-the-line-asus-tuf-34-monitor-curved-display-lowest-price-at-249/"><u>Amazon's Exclusive Deal: Top-of-the-Line Asus TUF 34 Monitor, Curved Display – Lowest Price at $249</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/average-duration-of-computer-usage-insights-from-yl-computing-exploring-user-habits-with-yl-software/"><u>Average Duration of Computer Usage: Insights From YL Computing - Exploring User Habits with YL Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/celebrating-clear-documentation-with-every-page/"><u>Celebrating Clear Documentation with Every Page</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/deciphering-your-printers-error-messages-insights-from-yl-computing-and-yl-software/"><u>Deciphering Your Printer's Error Messages: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-techniques-for-shrinking-files-a-guide-by-yl-computing/"><u>Effective Techniques for Shrinking Files: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/elegant-bmw-e36-hd-graphics-for-enthusiasts-detailed-wallpapers-images-and-photo-gallery-by-apex-visuals-studio/"><u>Elegant BMW E36 HD Graphics for Enthusiasts: Detailed Wallpapers, Images, and Photo Gallery by Apex Visuals Studio</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/immersive-ultra-hd-hulk-wallpaper-series-from-yl-computing-unleash-your-desktops-potential/"><u>Immersive Ultra HD Hulk Wallpaper Series From YL Computing: Unleash Your Desktop's Potential</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>In 2024, Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-k11x-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo K11x Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-rechargeable-battery-chargers-in-2marketing-course2024/"><u>Top Rated Rechargeable Battery Chargers in 2#Marketing-Course_2024</u></a></li>
 </ul></div>
 
