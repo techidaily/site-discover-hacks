@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial"
-date: 2024-12-28T16:26:59.444Z
-updated: 2025-01-01T17:16:32.214Z
+date: 2024-12-25T16:04:28.666Z
+updated: 2025-01-01T16:21:56.177Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,21 +42,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-simplifying-post-production-using-luts-in-after-effects/"><u>[New] 2024 Approved Simplifying Post Production Using LUTs in After Effects</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ssentials-for-professionals-advanced-strategies-in-video-tagging/"><u>[New] Essentials for Professionals Advanced Strategies in Video Tagging</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-cinema-grade-color-grading-via-look-up-table-utilization/"><u>[New] In 2024, Cinema-Grade Color Grading via Look-Up Table Utilization</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>[New] In 2024, Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-novice-to-pro-becoming-a-boomerang-connoisseur-on-snapchat/"><u>2024 Approved From Novice to Pro Becoming a Boomerang Connoisseur on Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-art-of-3d-text-rendering-in-ps/"><u>2024 Approved Navigating the Art of 3D Text Rendering in PS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>2024 Approved Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guida-completa-al-migliore-screen-capture-per-windows-registra-schermi-interi-o-sezioni-pc/"><u>Guida Completa Al Migliore Screen Capture per Windows - Registra Schermi Interi O Sezioni PC</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-seamlessly-convert-and-backup-dvds-on-your-computer-6-optimal-techniques/"><u>How to Seamlessly Convert and Backup DVDs on Your Computer: 6 Optimal Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/is-it-possible-to-enjoy-av1-video-quality-through-plex-tips-for-av1-compatibility-and-playback/"><u>Is It Possible to Enjoy AV1 Video Quality Through Plex? Tips for AV1 Compatibility and Playback</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/learn-xmedia-recode-complete-tutorial-comprehensive-encoding-and-editing-techniques/"><u>Learn XMedia Recode Complete Tutorial | Comprehensive Encoding & Editing Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-solutions-to-overcome-plex-playback-hurdles-correcting-errors-such-as-s1/"><u>Step-by-Step Solutions to Overcome Plex Playback Hurdles - Correcting Errors Such as S1</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transitioning-to-ios-16-what-sets-it-apart-from-ios-15-and-how-will-it-benefit-you/"><u>Transitioning to iOS 16: What Sets It Apart From iOS 15 and How Will It Benefit You?</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/windows-11-and-android/"><u>Windows 11 & Androidの動画圧縮テクニック：ファイルサイズ最適化にガイド</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[Updated] From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-mike-from-dj-ntv-expertly-discusses-strategies-in-client-agreements-and-deals-dj-contract-guide-video/"><u>1. Mike From DJ NTV Expertly Discusses Strategies in Client Agreements and Deals - DJ Contract Guide Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/360-aerial-panoramas-with-yuneec-breeze-drone-review-for-2024/"><u>360 Aerial Panoramas with Yuneec Breeze Drone Review for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/a-step-by-step-guide-performing-a-diagnostic-test-on-your-printer-with-yl-computing-solutions/"><u>A Step-by-Step Guide: Performing a Diagnostic Test on Your Printer with YL Computing Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-understanding-google-podcasts-for-2024/"><u>Comprehensive Guide Understanding Google Podcasts for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/configuring-windows-network-cards-for-optimal-performance-with-yl-software-solutions/"><u>Configuring Windows Network Cards for Optimal Performance with YL Software Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-vob-files-into-mp4-format-a-simple-guide-for-windows-and-macos-users/"><u>Convert VOB Files Into MP4 Format: A Simple Guide for Windows and macOS Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cybernetic-wonders-discovering-sci-fi-metaverse-marvels-on-screen/"><u>Cybernetic Wonders Discovering Sci-Fi Metaverse Marvels on Screen</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/easy-steps-for-connecting-a-printer-to-windows-10-operating-system-by-yl-software-professionals/"><u>Easy Steps for Connecting a Printer to Windows 10 Operating System by YL Software Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-performance-naturally-the-ultimate-guide-to-accelerating-windows-1011/"><u>Enhance Performance Naturally: The Ultimate Guide to Accelerating Windows 10/11</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/exploring-the-windows-data-recovery-process-unveiling-its-internal-file-system-strategies/"><u>Exploring the Windows Data Recovery Process: Unveiling Its Internal File System Strategies</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/hd-black-wolf-nature-walls-premium-wildlife-backgrounds-from-yl-computing/"><u>HD Black Wolf Nature Walls: Premium Wildlife Backgrounds From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-fix-incorrectly-installed-device-drivers-tips-from-yl-computings-expert-team/"><u>How to Fix Incorrectly Installed Device Drivers: Tips From YL Computing's Expert Team</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-scoop-overcoming-havoc-in-cod-warzones-pacific-skirmish/"><u>Inside Scoop: Overcoming Havoc in Cod: Warzone's Pacific Skirmish</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/stellar-whiskers-wallpaper-pack-high-res-space-cat-backgrounds-and-photos-from-yl-computing-solutions/"><u>Stellar Whiskers Wallpaper Pack - High-Res Space Cat Backgrounds and Photos From YL Computing Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-mastering-file-extraction-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Mastering File Extraction on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
 </ul></div>
 

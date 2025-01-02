@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2024-12-28T17:49:39.733Z
-updated: 2025-01-01T18:40:56.450Z
+date: 2024-12-30T16:31:10.738Z
+updated: 2025-01-01T18:39:13.521Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,24 +70,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-pathways-to-youtube-stardom-in-video-games/"><u>[New] 2024 Approved Pathways to YouTube Stardom in Video Games</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unbeatable-top-10-video-editors-on-your-pcwindows-tiktok/"><u>[New] Unbeatable Top 10 Video Editors on Your PC/Windows (TikTok)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-project-board-to-public-display-imovie-on-youtube-for-2024/"><u>[Updated] From Project Board to Public Display IMovie on YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-power-how-to-use-phantoms-retro-vision/"><u>[Updated] Harnessing Power How to Use Phantom's Retro Vision</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhance-your-podcast-a-guide-through-garageband/"><u>[Updated] In 2024, Enhance Your Podcast A Guide Through GarageBand</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-enhancing-your-pcs-performance-strategies-for-boosting-processor-speeds-with-yl-software-solutions/"><u>1. Enhancing Your PC's Performance: Strategies for Boosting Processor Speeds with YL Software Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-shift-toward-data-privacy-on-iphones/"><u>A Shift Toward Data Privacy on iPhones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/decoding-top-cryptocurrency-shifts-and-their-impacts-with-yl-software-guidance/"><u>Decoding Top Cryptocurrency Shifts and Their Impacts with YL Software Guidance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-for-a-seamless-experience-of-tiny-tinas-stirring-adventures-on-pc-fixed/"><u>Easy Troubleshooting Steps for a Seamless Experience of Tiny Tina's Stirring Adventures on PC [Fixed]</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/essential-tips-to-avoid-cpu-malfunction-insights-from-yl-computing/"><u>Essential Tips to Avoid CPU Malfunction: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/identifying-ram-issues-before-they-escalate-expert-insights-from-yl-software/"><u>Identifying RAM Issues Before They Escalate – Expert Insights From YL Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-epson-scanner-driver-updates-free-download-options/"><u>Latest Epson Scanner Driver Updates - Free Download Options</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/resolving-ram-malfunctions-step-by-step-guidance-by-yl-software-experts/"><u>Resolving RAM Malfunctions: Step-by-Step Guidance by YL Software Experts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/resolving-your-pcs-silent-treatment-reconnecting-the-disappeared-sound-card-on-windows-expertise-by-yl-software/"><u>Resolving Your PC's Silent Treatment: Reconnecting the Disappeared Sound Card on Windows – Expertise by YL Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/tips-and-tricks-avoiding-scanner-malfunctions-with-yl-computing-solutions/"><u>Tips and Tricks: Avoiding Scanner Malfunctions with YL Computing Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/uncover-the-root-of-your-device-driver-issues-expert-insights-from-yl-computing/"><u>Uncover the Root of Your Device Driver Issues: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/yl-software-reviews-effective-remedies-for-your-overheated-motherboard-woes/"><u>YL Software Reviews: Effective Remedies for Your Overheated Motherboard Woes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-end-of-acid-pro-top-software-alternatives-reviewed/"><u>[New] In 2024, The End of ACID Pro Top Software Alternatives Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instaloops-create-content-that-circulates-and-captivates/"><u>[New] InstaLoops Create Content That Circulates & Captivates</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/5pya5zci6ygp55qe5ly65pyn5zmo5ywl6zqg6kej5rg65pa55qgi77ya6l2j56e756gs56kf54sh5aot5yqb6yg45poh/"><u>最合適的伺服器克隆解決方案：轉移硬碟無壓力選擇</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/automatisches-hochladen-von-iphones-sicherung-auf-deinen-computer-via-wi-fi/"><u>Automatisches Hochladen Von iPhones Sicherung Auf Deinen Computer via Wi-Fi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/como-realizar-la-migracion-de-windows-11-a-un-disco-ssd-nvme-pasos-completos-y-faciles/"><u>Cómo Realizar La Migración De Windows 11 a Un Disco SSD NVMe: Pasos Completos Y Fáciles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-5-ways-ai-reinforces-illicit-online-techniques/"><u>Decoding 5 Ways AI Reinforces Illicit Online Techniques</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/download-free-heic-image-viewer-software-for-multiple-windows-versions-7-8-10-11/"><u>Download Free HEIC Image Viewer Software for Multiple Windows Versions (7, 8, 10, 11)</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/einfach-aktivieren-wie-der-sichere-boot-bei-deinem-windows-pc-in-windows-11-funktioniert/"><u>Einfach Aktivieren: Wie Der Sichere Boot Bei Deinem Windows-PC in Windows 11 Funktioniert</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-13t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi 13T to Roku | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-performance-pdw4-for-gamers-and-creators/"><u>Next Level Performance: PDW4 for Gamers & Creators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-selection-celebrating-johnny-depps-outstanding-performances-in-film-1985-2015/"><u>The Ultimate Selection: Celebrating Johnny Depp's Outstanding Performances in Film (1985 - 2015)</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/windows-11drive/"><u>Windows 11上将文件夹从Drive转移到其他存储设备: 四种不同的步骤</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2024-12-31T16:34:12.007Z
-updated: 2025-01-01T17:18:33.363Z
+date: 2024-12-26T00:46:39.758Z
+updated: 2025-01-02T00:26:03.500Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,17 +83,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-comprehensive-walkthrough-installing-windows-movie-maker-60/"><u>[New] 2024 Approved Comprehensive Walkthrough Installing Windows Movie Maker 6.0</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-instantaneous-gif-transformation-leading-online-platforms-ranked/"><u>[New] In 2024, Instantaneous GIF Transformation Leading Online Platforms Ranked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>2024 Approved Uncomplicated Process Altering Clown Fish Voices in WinOS</u></a></li>
-<li><a href="https://win-data.techidaily.com/becoming-an-in-demand-wedding-dj-5-essential-tips-and-tricks-for-bookings/"><u>Becoming an In-Demand Wedding DJ: 5 Essential Tips and Tricks for Bookings</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/detailed-official-winxvideo-ai-software-technical-specifications/"><u>Detailed Official WinXVideo AI Software Technical Specifications</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725288145939-digiarty-winxdvd-faq/"><u>Digiarty WinXDVDソフトウェア FAQ: ユーザーのご懸念に直接答えます！</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/distinguishing-between-youtube-content-control-and-creative-commons-flexibility-for-2024/"><u>Distinguishing Between YouTube Content Control and Creative Commons Flexibility for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/737227-9780761854586-get-goodness/"><u>Get Goodness | Free Book</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/professional-video-transformation-supercharge-your-videos-with-winx-deluxes-gpu-speedy-resizing-and-converting-techniques/"><u>Professional Video Transformation: Supercharge Your Videos with WinX Deluxe's GPU Speedy Resizing & Converting Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reimagine-photos-with-picshots-simple-techniques/"><u>Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-the-old-school-experience-in-your-living-room-pc/"><u>Reviving the Old School Experience in Your Living Room (PC)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/trucco-delle-vendite-online-il-tuo-centrale-supporto-personalizzato-per-winx-dvd-ripper-ed-edizione-speciale-winx-video-con-intelligenza-artificiale/"><u>Trucco Delle Vendite Online: Il Tuo Centrale Supporto Personalizzato per WinX DVD Ripper Ed Edizione Speciale WinX Video Con Intelligenza Artificiale</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unique-channel-branding-how-to-personalize-your-youtube-url/"><u>[New] Unique Channel Branding How to Personalize Your YouTube Url</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-studio-basics-full-guide-to-ps4-game-recording/"><u>[Updated] 2024 Approved Obs Studio Basics - Full Guide to PS4 Game Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-entertainment-preservation-online-tv-show-recording-101-for-2024/"><u>[Updated] Digital Entertainment Preservation Online TV Show Recording 101 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-windows-10-ultimate-screen-capture-tool/"><u>2024 Approved Windows 10 Ultimate Screen Capture Tool</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/aston-martin-dbs-hd-picture-gallery-with-stunning-wallsavers-and-photo-ideas-by-yl-software/"><u>Aston Martin DBS HD Picture Gallery with Stunning Wallsavers and Photo Ideas by YL Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/beyond-the-dance-understanding-copyright-pre-upload/"><u>Beyond the Dance Understanding Copyright Pre-Upload</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/boost-your-computer-speed-a-guide-by-yl-software-on-spotting-whats-holding-you-back/"><u>Boost Your Computer Speed: A Guide by YL Software on Spotting What's Holding You Back</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dynamic-volume-interplay-using-sony-vegas-pro-tips-for-2024/"><u>Dynamic Volume Interplay Using Sony Vegas Pro Tips for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-xcover-7-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy XCover 7 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/secure-your-scanning-operations-with-our-expert-installation-tips-yl-computings-essential-advice/"><u>Secure Your Scanning Operations with Our Expert Installation Tips - YL Computing's Essential Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/unveiling-the-potential-gains-from-cryptocurrency-investments-with-guidance-from-yl-tech-experts/"><u>Unveiling the Potential Gains From Cryptocurrency Investments with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/windows-11-wallpaper-hacks-learn-to-personalize-your-desktop-with-ease-using-yl-software-solutions/"><u>Windows 11 Wallpaper Hacks! Learn to Personalize Your Desktop with Ease Using YL Software Solutions</u></a></li>
 </ul></div>
 
