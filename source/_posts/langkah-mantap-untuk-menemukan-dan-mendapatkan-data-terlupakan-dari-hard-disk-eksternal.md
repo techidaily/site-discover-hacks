@@ -1,7 +1,7 @@
 ---
 title: Langkah Mantap Untuk Menemukan Dan Mendapatkan Data Terlupakan Dari Hard Disk Eksternal
-date: 2024-12-30T19:19:20.187Z
-updated: 2025-01-01T23:31:05.828Z
+date: 2025-01-05T00:36:01.120Z
+updated: 2025-01-09T14:32:37.420Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0107a7a0c827d88713775503.png
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
@@ -53,10 +53,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -74,16 +70,12 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -120,10 +112,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -183,6 +171,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -217,6 +209,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,6 +220,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -237,10 +237,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -251,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,17 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>[New] Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>[Updated] 2024 Approved Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2039175-9781782798538-a-kitchen-witchs-world-of-magical-food/"><u>A Kitchen Witch's World of Magical Food | Free Book</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/come-utilizzare-lutilita-sfcscavana-su-windows-10-e-11-una-guida-completa/"><u>Come Utilizzare L'Utilità 'SFC/Scavana' Su Windows 10 E 11: Una Guida Completa</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/completele-removal-of-windows/"><u>Completele Removal of Windows</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/die-bestehende-top-3-fur-backblaze-alternativen-im-jahr-2024-ein-vergleich-ihrer-vor-und-nachteile/"><u>Die Bestehende Top 3 Für Backblaze Alternativen Im Jahr 2024: Ein Vergleich Ihrer Vor- Und Nachteile</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-event-entries-in-the-ios-calendar-app/"><u>How to Recover Lost Event Entries in the iOS Calendar App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-g310-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on G310?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-off-facebook-insights-what-they-reveal-and-when-to-turn-them-off/"><u>In 2024, Off-Facebook Insights What They Reveal & When to Turn Them Off</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/sieben-wertvolle-hinweise-warum-iphone-bilder-nicht-automatisch-in-icloud-hochgeladen-werden/"><u>Sieben Wertvolle Hinweise: Warum iPhone-Bilder Nicht Automatisch in iCloud Hochgeladen Werden</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/todas-las-vias-para-activar-la-sincronizacion-de-archivos-automaticos-en-windows-11-dos-metodos-efectivos/"><u>Todas Las Vías Para Activar La Sincronización De Archivos Automáticos en Windows 11: Dos Métodos Efectivos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/44ot44o844kr44or44oh44kj44os44kv44oi44oq44go44oj44ot44od44ox44oc44od44kv44k56zat44gn44gu44ov44kh44kk44or5zcm5pyf5pa55rov/"><u>ローカルディレクトリとドロップボックス間でのファイル同期方法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-efficient-video-sharing-on-twitter-from-smartphones/"><u>[New] 2024 Approved Efficient Video Sharing on Twitter From Smartphones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extended-examination-of-uncomplicated-hdr-photography/"><u>[New] In 2024, Extended Examination of Uncomplicated HDR Photography</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-melodic-medium-finding-the-right-film-score/"><u>[New] Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-game-capture-windows-11-edition/"><u>[Updated] Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>2024 Approved Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mp3-to-avi-movavi/"><u>完美轉換 MP3 to AVI: 利用 Movavi 在網路上免費提供的服務</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/como-convertir-gratuitamente-videos-avimpg-a-mpeg-4-f4v-en-linea-por-medio-de-la-herramienta-convertidor-de-archivos-multimedia-movavi/"><u>Cómo Convertir Gratuitamente Videos AVI/MPG a MPEG-4 (F4V) en Línea Por Medio De La Herramienta Convertidor De Archivos Multimedia - Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/conversion-en-ligne-des-videos-ogm-vers-le-codec-wmv-gratuitement-avec-wondershare-uniconverter/"><u>Conversion en Ligne Des Vidéos OGM Vers Le Codec WMV Gratuitement Avec Wondershare UniConverter</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-can-i-fix-issues-by-restoring-defaults-on-my-scanner-with-yl-computings-solutions/"><u>How Can I Fix Issues by Restoring Defaults on My Scanner with YL Computing's Solutions?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-comparing-free-and-premium-youtube-experiences-whats-best/"><u>In 2024, Comparing Free and Premium YouTube Experiences What's Best?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavim4a-mkv/"><u>Movaviによるオンラインで行うコストフリーなM4A MKVビデオ変換サービス</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/nystaedtelsefri-det-sidste-videreudspilningskontorprogram-med-nylig-tilgang-imovie-under-windows-2024/"><u>NYSTÆDTELSEFRI: Det Sidste Videreudspilningskontorprogram Med Nylig Tilgang - iMovie Under Windows, 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/online-transformation-of-asf-files-into-high-quality-mpeg-format-at-no-cost/"><u>Online Transformation of Asf Files Into High-Quality Mpeg Format at No Cost</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-onscreen-financial-growth-in-the-youtube-arena-for-2024/"><u>Thriving Onscreen Financial Growth in the YouTube Arena for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-kensun-mini-air-compressor-for-tires-robust-build-and-convenient-transport/"><u>Top-Rated Kensun Mini Air Compressor for Tires: Robust Build & Convenient Transport</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tu-clip-de-formato-mp4-en-un-divertido-gif-gratuito-manteniendo-la-nitidez-perfecta-online/"><u>Transforma Tu Clip De Formato MP4 en Un Divertido GIF Gratuito Manteniendo La Nitidez Perfecta Online</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/rmvb-to-m4v-movavi/"><u>무료 RMVB to M4V 변환기 - Movavi의 인터넷 사용자에게</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726221489737-movogv-movavi/"><u>오피스 공간에서 제공되는 무료 MOV/OGV 캡체를 원동으로 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 

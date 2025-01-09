@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2024-12-30T16:31:10.738Z
-updated: 2025-01-01T18:39:13.521Z
+date: 2025-01-04T21:37:00.568Z
+updated: 2025-01-09T10:09:02.361Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,20 +70,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-end-of-acid-pro-top-software-alternatives-reviewed/"><u>[New] In 2024, The End of ACID Pro Top Software Alternatives Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instaloops-create-content-that-circulates-and-captivates/"><u>[New] InstaLoops Create Content That Circulates & Captivates</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/5pya5zci6ygp55qe5ly65pyn5zmo5ywl6zqg6kej5rg65pa55qgi77ya6l2j56e756gs56kf54sh5aot5yqb6yg45poh/"><u>最合適的伺服器克隆解決方案：轉移硬碟無壓力選擇</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/automatisches-hochladen-von-iphones-sicherung-auf-deinen-computer-via-wi-fi/"><u>Automatisches Hochladen Von iPhones Sicherung Auf Deinen Computer via Wi-Fi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/como-realizar-la-migracion-de-windows-11-a-un-disco-ssd-nvme-pasos-completos-y-faciles/"><u>Cómo Realizar La Migración De Windows 11 a Un Disco SSD NVMe: Pasos Completos Y Fáciles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-5-ways-ai-reinforces-illicit-online-techniques/"><u>Decoding 5 Ways AI Reinforces Illicit Online Techniques</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/download-free-heic-image-viewer-software-for-multiple-windows-versions-7-8-10-11/"><u>Download Free HEIC Image Viewer Software for Multiple Windows Versions (7, 8, 10, 11)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/einfach-aktivieren-wie-der-sichere-boot-bei-deinem-windows-pc-in-windows-11-funktioniert/"><u>Einfach Aktivieren: Wie Der Sichere Boot Bei Deinem Windows-PC in Windows 11 Funktioniert</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-13t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi 13T to Roku | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-performance-pdw4-for-gamers-and-creators/"><u>Next Level Performance: PDW4 for Gamers & Creators</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-selection-celebrating-johnny-depps-outstanding-performances-in-film-1985-2015/"><u>The Ultimate Selection: Celebrating Johnny Depp's Outstanding Performances in Film (1985 - 2015)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/windows-11drive/"><u>Windows 11上将文件夹从Drive转移到其他存储设备: 四种不同的步骤</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-viral-photo-trends-capturing-memes-true-essence/"><u>[New] Viral Photo Trends Capturing Memes' True Essence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-creating-impactful-youtube-thumbnails-and-ads/"><u>[Updated] Creating Impactful YouTube Thumbnails & Ads</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-empowering-audiences-the-playlist-sharing-approach/"><u>[Updated] Empowering Audiences The Playlist Sharing Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-capture-picture-perfection-without-paying/"><u>[Updated] How To Capture Picture Perfection Without Paying</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canon-image-masters-10plus-luts-some-are-free-for-2024/"><u>Canon Image Masters - 10+ LUTs, Some Are Free for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/convert-aac-audio-to-wav-without-costs-simple-and-effective-online-tool-by-movavi/"><u>Convert AAC Audio to WAV Without Costs - Simple and Effective Online Tool by Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/free-online-converter-turn-wav-files-into-m4b-audiobooks-with-ease/"><u>Free Online Converter: Turn WAV Files Into M4B Audiobooks with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero5-premium-showdown-black-edition/"><u>GoPro Hero5 Premium Showdown Black Edition</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guia-facil-para-transcodificar-archivos-de-sonido-en-mp3-sin-coste-hazlo-desde-tu-pc/"><u>Guía Fácil Para Transcodificar Archivos De Sonido en MP3 Sin Coste: Hazlo Desde Tu PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-network-broadcast-with-vlc-for-2024/"><u>Innovative Approaches to Network Broadcast with VLC for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavi-mp4swf/"><u>Movaviの無料変換サービス – オンデマンドにMP4からSWFへシームレスなコンバートを楽しむ方法</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mxfwav-movavi/"><u>MXFとWAVファイルの無料オンライン変換 - Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-guide-downloading-and-installing-the-steelseries-engine-driver-for-optimal-keyboard-performance/"><u>Quick Start Guide: Downloading and Installing the SteelSeries Engine Driver for Optimal Keyboard Performance</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tus-canciones-sin-costo-alguno-convertidor-en-linea-mp3-a-formato-m4r-por-expertos-movavi/"><u>Transforma Tus Canciones Sin Costo Alguno: Convertidor en Línea MP3 a Formato M4R Por Expertos - Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/aiff-mp3/"><u>이탈리아의 오딘홀로: AIFF, MP3로의 영화/음악 유지 보호 전송 - 무료 온라인 옵션</u></a></li>
 </ul></div>
 

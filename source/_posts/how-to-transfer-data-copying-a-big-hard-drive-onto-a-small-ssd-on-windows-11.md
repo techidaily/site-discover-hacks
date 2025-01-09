@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Data: Copying a Big Hard Drive Onto a Small SSD on Windows 11"
-date: 2024-12-29T19:48:36.268Z
-updated: 2025-01-01T22:24:48.940Z
+date: 2025-01-06T00:06:41.776Z
+updated: 2025-01-09T08:08:19.844Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f345c561509fddb26d5e877149.jpg
@@ -38,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -53,7 +49,7 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
@@ -93,11 +89,7 @@ You can expand the Deleted files folder and Other missing files folder to select
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
@@ -115,12 +107,16 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -139,11 +135,7 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
@@ -155,10 +147,6 @@ Next, let’s have a look at how to recover files infected by ransomware from a 
 Step 1\. Press **Win + S** to open the Windows search box, type **Create a restore point**, and click **Open** from the list of results.
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
 
@@ -187,6 +175,10 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -199,9 +191,17 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -223,10 +223,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -236,10 +232,14 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,24 +256,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-for-flawless-instagrams/"><u>[New] 2024 Approved A Step-by-Step Approach for Flawless Instagrams</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-youtube-video-quality-minimize-distractions/"><u>[New] In 2024, Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-powerdirector-2024-reviewed/"><u>[New] Mastering PowerDirector 2024 Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analyzing-the-oneplus-8t-impressive-speed-overshadowed-by-patchy-photography/"><u>Analyzing the OnePlus 8T: Impressive Speed Overshadowed by Patchy Photography</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-6-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 6 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/business-video-editing-solutions-with-movavi-professional-kopen/"><u>Business Video Editing Solutions with Movavi - Professional Kopen</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/change-your-3gpp-audio-clips-to-high-quality-m4a-streaming-file-without-charge-web-converter-by-playstream/"><u>Change Your 3GPP Audio Clips to High-Quality M4A Streaming File without Charge - Web Converter by PlayStream</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/enhance-your-videos-with-these-top-5-color-correction-utilities-on-android-and-iphone/"><u>Enhance Your Videos with These Top 5 Color Correction Utilities on Android and iPhone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/exploring-satoko-smiths-photography-a-detailed-review-on-movavi/"><u>Exploring Satoko Smith's Photography - A Detailed Review on Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-facile-convertissez-vos-fichiers-flv-en-mp4-gratuitement-sur-internet-via-movavi/"><u>Guide Facile: Convertissez Vos Fichiers FLV en MP4 Gratuitement Sur Internet via Movavi</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/20098207-in-2024-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-the-sa/"><u>In 2024, Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-israels-culture-key-expressions-for-your-visit/"><u>Mastering Israel's Culture: Key Expressions for Your Visit</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-alert-discover-how-your-pocket-gets-smart-with-amazon-basics-tablet-support/"><u>Review Alert! Discover How Your Pocket Gets Smart with Amazon Basics Tablet Support</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-11-youtube-intro-programs-expert-guide-by-movavi/"><u>Top 11 YouTube Intro Programs - Expert Guide by Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-educational-applications-essential-tools-every-teacher-needs/"><u>Top Educational Applications: Essential Tools Every Teacher Needs</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/wav-and-webm-movavi/"><u>무료 대역핑 서비스: WAV & WebM로 Movavi 웹에서 사이트 결합</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726223347939-mp3-movavi/"><u>オンラインでのアニメムービーMP3への自由な変換 - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-exploring-premium-webcams-shoppers-insights/"><u>[New] In 2024, Exploring Premium Webcams - Shopper's Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-free-fb-links-breeze-through-the-process/"><u>[New] In 2024, Free FB Links, Breeze Through the Process</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-creating-eastern-villas-in-the-virtual-realm/"><u>2024 Approved Creating Eastern Villas in the Virtual Realm</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/google-m4a-wav-movavi/"><u>優化 Google 搜尋引擎的免費 M4A到 WAV 線上音頻轉換 - Movavi 高效解碼器</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comparing-image-formats-png-vs-jpg-determining-superior-quality/"><u>Comparing Image Formats: PNG Vs. JPG - Determining Superior Quality</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/gebaseerd-op-vrije-gratuite-online-tool-mov-naar-m4amp3m4r-konverteren-movie-edit/"><u>Gebaseerd Op Vrije Gratuite Online-Tool: MOV Naar M4A/MP3/M4R Konverteren - Movie Edit</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mise-en-ligne-gratuite-convertissez-vos-fichiers-wma-au-format-aac-avec-rapide-convertwmatoaac/"><u>Mise en Ligne Gratuite : Convertissez Vos Fichiers WMA Au Format AAC Avec Rapide - ConvertWMAtoAAC</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavis-free-service-per-la-conversione-di-audio-da-ogg-a-wav-semplice-e-ottimizzato-seo/"><u>Movavi's Free Service per La Conversione Di Audio Da OGG a WAV - Semplice E Ottimizzato SEO!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimale-verfahren-zur-lagerung-von-e-mail-daten-die-fuhrenden-2-ansatze-fur-externe-speichermedien/"><u>Optimale Verfahren Zur Lagerung Von E-Mail-Daten: Die Führenden 2 Ansätze Für Externe Speichermedien</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-compatibility-download-logitech-t6vee-drivers-suited-for-win7810/"><u>Seamless Compatibility: Download Logitech T6vee Drivers Suited For Win7/8/10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/securing-your-gaming-moments-with-windows-11/"><u>Securing Your Gaming Moments with Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-audio-editors-using-garageband-for-2024/"><u>The Ultimate Guide for Audio Editors Using GarageBand for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-10-effective-online-protection-strategies-for-children-insights-from-malwarefox/"><u>Top 10 Effective Online Protection Strategies for Children: Insights From MalwareFox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-editing-and-reading-pdf-apps-for-mac-users/"><u>Top 7 Editing and Reading PDF Apps for Mac Users</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tu-imagen-webp-a-formato-tiff-sin-costo-alguno-con-herramientas-online-gratuitas-de-movavi/"><u>Transforma Tu Imagen WEBP a Formato TIFF Sin Costo Alguno Con Herramientas Online Gratuitas De Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformer-gratuitement-un-fichier-aiff-en-format-wav-tutorial-de-movavi/"><u>Transformer Gratuitement Un Fichier AIFF en Format WAV - Tutorial De Movavi</u></a></li>
 </ul></div>
 

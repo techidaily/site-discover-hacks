@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial"
-date: 2024-12-25T16:04:28.666Z
-updated: 2025-01-01T16:21:56.177Z
+date: 2025-01-06T19:42:21.881Z
+updated: 2025-01-09T08:37:29.954Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[Updated] From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-mike-from-dj-ntv-expertly-discusses-strategies-in-client-agreements-and-deals-dj-contract-guide-video/"><u>1. Mike From DJ NTV Expertly Discusses Strategies in Client Agreements and Deals - DJ Contract Guide Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/360-aerial-panoramas-with-yuneec-breeze-drone-review-for-2024/"><u>360 Aerial Panoramas with Yuneec Breeze Drone Review for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/a-step-by-step-guide-performing-a-diagnostic-test-on-your-printer-with-yl-computing-solutions/"><u>A Step-by-Step Guide: Performing a Diagnostic Test on Your Printer with YL Computing Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-guide-understanding-google-podcasts-for-2024/"><u>Comprehensive Guide Understanding Google Podcasts for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/configuring-windows-network-cards-for-optimal-performance-with-yl-software-solutions/"><u>Configuring Windows Network Cards for Optimal Performance with YL Software Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-vob-files-into-mp4-format-a-simple-guide-for-windows-and-macos-users/"><u>Convert VOB Files Into MP4 Format: A Simple Guide for Windows and macOS Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cybernetic-wonders-discovering-sci-fi-metaverse-marvels-on-screen/"><u>Cybernetic Wonders Discovering Sci-Fi Metaverse Marvels on Screen</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/easy-steps-for-connecting-a-printer-to-windows-10-operating-system-by-yl-software-professionals/"><u>Easy Steps for Connecting a Printer to Windows 10 Operating System by YL Software Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-performance-naturally-the-ultimate-guide-to-accelerating-windows-1011/"><u>Enhance Performance Naturally: The Ultimate Guide to Accelerating Windows 10/11</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/exploring-the-windows-data-recovery-process-unveiling-its-internal-file-system-strategies/"><u>Exploring the Windows Data Recovery Process: Unveiling Its Internal File System Strategies</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/hd-black-wolf-nature-walls-premium-wildlife-backgrounds-from-yl-computing/"><u>HD Black Wolf Nature Walls: Premium Wildlife Backgrounds From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-fix-incorrectly-installed-device-drivers-tips-from-yl-computings-expert-team/"><u>How to Fix Incorrectly Installed Device Drivers: Tips From YL Computing's Expert Team</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/inside-scoop-overcoming-havoc-in-cod-warzones-pacific-skirmish/"><u>Inside Scoop: Overcoming Havoc in Cod: Warzone's Pacific Skirmish</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/stellar-whiskers-wallpaper-pack-high-res-space-cat-backgrounds-and-photos-from-yl-computing-solutions/"><u>Stellar Whiskers Wallpaper Pack - High-Res Space Cat Backgrounds and Photos From YL Computing Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-mastering-file-extraction-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Mastering File Extraction on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-podcasts-on-googles-platform/"><u>[New] Optimizing Podcasts on Google's Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-smooth-transition-from-iphones-jpegpng-files-to-pdf-format-for-2024/"><u>[New] Smooth Transition From iPhone's JPEG/PNG Files to PDF Format for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pro-free-photo-workspace-discover-the-best-editing-suites/"><u>2024 Approved Pro Free Photo Workspace Discover the Best Editing Suites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/action-screen-recorder-review-for-2024/"><u>Action Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-office-productivity-how-to-integrate-chatgpt-into-your-daily-routine/"><u>Boosting Office Productivity: How to Integrate ChatGPT Into Your Daily Routine</u></a></li>
+<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diy-solutions-for-troubleshooting-and-repairing-your-windows-pcs-hardware-tips-from-yl-software-experts/"><u>DIY Solutions for Troubleshooting and Repairing Your Windows PC's Hardware - Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-can-organizations-safeguard-their-digital-assets-effectively-expert-insights-from-yl-computings-software-solutions/"><u>How Can Organizations Safeguard Their Digital Assets Effectively? Expert Insights From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-troubleshooting-guide-restoring-your-origin-connectivity/"><u>Online Troubleshooting Guide: Restoring Your Origin Connectivity</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-setting-up-your-microsoft-windows-11-profile-yl-solutions/"><u>Step-by-Step Guide: Setting Up Your Microsoft Windows 11 Profile - YL Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/understanding-the-impact-of-federal-oversight-on-digital-currency-a-guide-by-yl-computing/"><u>Understanding the Impact of Federal Oversight on Digital Currency: A Guide by YL Computing</u></a></li>
 </ul></div>
 
