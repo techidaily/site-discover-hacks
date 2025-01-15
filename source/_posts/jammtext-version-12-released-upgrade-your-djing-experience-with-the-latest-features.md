@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2025-01-04T21:37:00.568Z
-updated: 2025-01-09T10:09:02.361Z
+date: 2025-01-08T06:53:18.110Z
+updated: 2025-01-14T16:27:41.442Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,20 +70,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-viral-photo-trends-capturing-memes-true-essence/"><u>[New] Viral Photo Trends Capturing Memes' True Essence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-creating-impactful-youtube-thumbnails-and-ads/"><u>[Updated] Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-empowering-audiences-the-playlist-sharing-approach/"><u>[Updated] Empowering Audiences The Playlist Sharing Approach</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-capture-picture-perfection-without-paying/"><u>[Updated] How To Capture Picture Perfection Without Paying</u></a></li>
-<li><a href="https://extra-information.techidaily.com/canon-image-masters-10plus-luts-some-are-free-for-2024/"><u>Canon Image Masters - 10+ LUTs, Some Are Free for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convert-aac-audio-to-wav-without-costs-simple-and-effective-online-tool-by-movavi/"><u>Convert AAC Audio to WAV Without Costs - Simple and Effective Online Tool by Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/free-online-converter-turn-wav-files-into-m4b-audiobooks-with-ease/"><u>Free Online Converter: Turn WAV Files Into M4B Audiobooks with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopro-hero5-premium-showdown-black-edition/"><u>GoPro Hero5 Premium Showdown Black Edition</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guia-facil-para-transcodificar-archivos-de-sonido-en-mp3-sin-coste-hazlo-desde-tu-pc/"><u>Guía Fácil Para Transcodificar Archivos De Sonido en MP3 Sin Coste: Hazlo Desde Tu PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-network-broadcast-with-vlc-for-2024/"><u>Innovative Approaches to Network Broadcast with VLC for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/movavi-mp4swf/"><u>Movaviの無料変換サービス – オンデマンドにMP4からSWFへシームレスなコンバートを楽しむ方法</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mxfwav-movavi/"><u>MXFとWAVファイルの無料オンライン変換 - Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-guide-downloading-and-installing-the-steelseries-engine-driver-for-optimal-keyboard-performance/"><u>Quick Start Guide: Downloading and Installing the SteelSeries Engine Driver for Optimal Keyboard Performance</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transforma-tus-canciones-sin-costo-alguno-convertidor-en-linea-mp3-a-formato-m4r-por-expertos-movavi/"><u>Transforma Tus Canciones Sin Costo Alguno: Convertidor en Línea MP3 a Formato M4R Por Expertos - Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/aiff-mp3/"><u>이탈리아의 오딘홀로: AIFF, MP3로의 영화/음악 유지 보호 전송 - 무료 온라인 옵션</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tudents-guide-to-top-10-best-history-youtube-sources/"><u>[New] Student's Guide to Top 10 Best History YouTube Sources</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-choices-for-professional-gopro-video-editing-for-2024/"><u>[New] Top Choices for Professional GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-3-simple-copywriting-structure-for-facebook-ads/"><u>[Updated] In 2024, 3-Simple Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-finding-voice-changers-for-vtubers-two-best-app-recommended/"><u>2024 Approved Finding Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-methods-for-deleting-unnecessary-cache-and-temp-data-on-your-pc-guidance-by-yl-computing/"><u>Effective Methods for Deleting Unnecessary Cache & Temp Data on Your PC - Guidance by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-the-cybersecurity-capabilities-of-windows-defender-against-viruses-and-online-menaces/"><u>Exploring the Cybersecurity Capabilities of Windows Defender Against Viruses and Online Menaces</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/high-definition-abstract-hexagon-wallpapers-and-desktop-graphics-premium-digital-art-by-yl-computing/"><u>High-Definition Abstract Hexagon Wallpapers & Desktop Graphics - Premium Digital Art by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/high-resolution-phone-wallpaper-hd-backgrounds-and-photo-collections-premium-designs-by-yl-computing/"><u>High-Resolution Phone Wallpaper HD Backgrounds & Photo Collections - Premium Designs by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-verify-and-update-device-drivers-for-optimal-performance-expert-advice-by-yl-software-solutions/"><u>How to Verify and Update Device Drivers for Optimal Performance - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-innovative-discussion-themes-for-vloggers/"><u>In 2024, Innovative Discussion Themes for Vloggers</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/renaming-folders-made-easy-a-guide-by-yl-computings-expert-team/"><u>Renaming Folders Made Easy: A Guide by YL Computing's Expert Team</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/solving-your-scanners-adapter-problem-expert-tips-from-yl-computing/"><u>Solving Your Scanner's Adapter Problem: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/the-mysterious-retention-of-data-files-4-methods-in-windows-11/"><u>The Mysterious Retention of Data Files: 4 Methods in Windows 11</u></a></li>
 </ul></div>
 

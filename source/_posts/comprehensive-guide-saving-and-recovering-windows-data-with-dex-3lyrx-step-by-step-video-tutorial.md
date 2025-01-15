@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial"
-date: 2025-01-06T19:42:21.881Z
-updated: 2025-01-09T08:37:29.954Z
+date: 2025-01-09T23:57:47.185Z
+updated: 2025-01-15T00:16:13.440Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-optimizing-podcasts-on-googles-platform/"><u>[New] Optimizing Podcasts on Google's Platform</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-smooth-transition-from-iphones-jpegpng-files-to-pdf-format-for-2024/"><u>[New] Smooth Transition From iPhone's JPEG/PNG Files to PDF Format for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-pro-free-photo-workspace-discover-the-best-editing-suites/"><u>2024 Approved Pro Free Photo Workspace Discover the Best Editing Suites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/action-screen-recorder-review-for-2024/"><u>Action Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-office-productivity-how-to-integrate-chatgpt-into-your-daily-routine/"><u>Boosting Office Productivity: How to Integrate ChatGPT Into Your Daily Routine</u></a></li>
-<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/diy-solutions-for-troubleshooting-and-repairing-your-windows-pcs-hardware-tips-from-yl-software-experts/"><u>DIY Solutions for Troubleshooting and Repairing Your Windows PC's Hardware - Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-can-organizations-safeguard-their-digital-assets-effectively-expert-insights-from-yl-computings-software-solutions/"><u>How Can Organizations Safeguard Their Digital Assets Effectively? Expert Insights From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/online-troubleshooting-guide-restoring-your-origin-connectivity/"><u>Online Troubleshooting Guide: Restoring Your Origin Connectivity</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-setting-up-your-microsoft-windows-11-profile-yl-solutions/"><u>Step-by-Step Guide: Setting Up Your Microsoft Windows 11 Profile - YL Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/understanding-the-impact-of-federal-oversight-on-digital-currency-a-guide-by-yl-computing/"><u>Understanding the Impact of Federal Oversight on Digital Currency: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-multiframe-views-in-edge/"><u>[New] Unlocking the Power of Multiframe Views in Edge</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-switch-game-screencasting-for-2024/"><u>[Updated] The Ultimate Guide to Switch Game Screencasting for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219763765-mp3-movavi/"><u>完璧にMP3をカットする - Movavi ユーザーマニュアル</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219957563-movavi/"><u>移動電話影片無需付錢地自動更改格式：Movavi畫質變換器</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-techniques-to-maintain-and-clean-your-printers-feed-roller-insights-from-yl-computing/"><u>Effective Techniques to Maintain and Clean Your Printer's Feed Roller: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/eliminar-elementos-de-fondo-del-video-con-tecnicas-avanzadas-no-necesitas-pantalla-verde/"><u>Eliminar Elementos De Fondo Del Video Con Técnicas Avanzadas, No Necesitas Pantalla Verde!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/gratuito-convertitore-mp2-offline-movavi-scambiare-i-formati-di-file-senza-costi/"><u>Gratuito Convertitore MP2 Offline - Movavi: Scambiare I Formati Di File Senza Costi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 7 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavi-web-app-convertir-rapidamente-tu-contenido-ogg-a-avi-sin-costo-alguno/"><u>Movavi Web App: Convertir Rápidamente Tu Contenido OGG a AVI Sin Costo Alguno</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavis-free-gif-to-webm-online-transformer-edit-your-images-for-the-web/"><u>Movavi's Free GIF to Webm Online Transformer - Edit Your Images for the Web</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-14-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi 14 Pro Phone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-11-highest-ranking-free-image-format-changers-discover-movavi/"><u>Top 11 Highest-Ranking Free Image Format Changers - Discover Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-audio-experience-selecting-the-top-mics/"><u>Ultimate Audio Experience Selecting the Top Mics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tips-on-how-to-terminate-unresponsive-windows-applications-immediately/"><u>Ultimate Tips on How to Terminate Unresponsive Windows Applications Immediately</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Langkah Mantap Untuk Menemukan Dan Mendapatkan Data Terlupakan Dari Hard Disk Eksternal
-date: 2025-01-05T00:36:01.120Z
-updated: 2025-01-09T14:32:37.420Z
+date: 2025-01-10T06:47:45.831Z
+updated: 2025-01-14T21:53:47.249Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0107a7a0c827d88713775503.png
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
@@ -31,6 +31,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -53,6 +57,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -68,10 +76,6 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -171,10 +175,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -195,6 +195,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -210,7 +214,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -220,10 +224,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -248,7 +248,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-efficient-video-sharing-on-twitter-from-smartphones/"><u>[New] 2024 Approved Efficient Video Sharing on Twitter From Smartphones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extended-examination-of-uncomplicated-hdr-photography/"><u>[New] In 2024, Extended Examination of Uncomplicated HDR Photography</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-melodic-medium-finding-the-right-film-score/"><u>[New] Melodic Medium Finding the Right Film Score</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-game-capture-windows-11-edition/"><u>[Updated] Mastering Game Capture Windows 11 Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>2024 Approved Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mp3-to-avi-movavi/"><u>完美轉換 MP3 to AVI: 利用 Movavi 在網路上免費提供的服務</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/como-convertir-gratuitamente-videos-avimpg-a-mpeg-4-f4v-en-linea-por-medio-de-la-herramienta-convertidor-de-archivos-multimedia-movavi/"><u>Cómo Convertir Gratuitamente Videos AVI/MPG a MPEG-4 (F4V) en Línea Por Medio De La Herramienta Convertidor De Archivos Multimedia - Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/conversion-en-ligne-des-videos-ogm-vers-le-codec-wmv-gratuitement-avec-wondershare-uniconverter/"><u>Conversion en Ligne Des Vidéos OGM Vers Le Codec WMV Gratuitement Avec Wondershare UniConverter</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-can-i-fix-issues-by-restoring-defaults-on-my-scanner-with-yl-computings-solutions/"><u>How Can I Fix Issues by Restoring Defaults on My Scanner with YL Computing's Solutions?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-comparing-free-and-premium-youtube-experiences-whats-best/"><u>In 2024, Comparing Free and Premium YouTube Experiences What's Best?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/movavim4a-mkv/"><u>Movaviによるオンラインで行うコストフリーなM4A MKVビデオ変換サービス</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/nystaedtelsefri-det-sidste-videreudspilningskontorprogram-med-nylig-tilgang-imovie-under-windows-2024/"><u>NYSTÆDTELSEFRI: Det Sidste Videreudspilningskontorprogram Med Nylig Tilgang - iMovie Under Windows, 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/online-transformation-of-asf-files-into-high-quality-mpeg-format-at-no-cost/"><u>Online Transformation of Asf Files Into High-Quality Mpeg Format at No Cost</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-onscreen-financial-growth-in-the-youtube-arena-for-2024/"><u>Thriving Onscreen Financial Growth in the YouTube Arena for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-kensun-mini-air-compressor-for-tires-robust-build-and-convenient-transport/"><u>Top-Rated Kensun Mini Air Compressor for Tires: Robust Build & Convenient Transport</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transforma-tu-clip-de-formato-mp4-en-un-divertido-gif-gratuito-manteniendo-la-nitidez-perfecta-online/"><u>Transforma Tu Clip De Formato MP4 en Un Divertido GIF Gratuito Manteniendo La Nitidez Perfecta Online</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/rmvb-to-m4v-movavi/"><u>무료 RMVB to M4V 변환기 - Movavi의 인터넷 사용자에게</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726221489737-movogv-movavi/"><u>오피스 공간에서 제공되는 무료 MOV/OGV 캡체를 원동으로 바꾸기 - MOVAVI</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-tips-for-easy-snapchat-screen-captures-on-phones/"><u>[Updated] 2024 Approved Quick Tips for Easy Snapchat Screen Captures on Phones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling/"><u>[Updated] Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-watching-facebook-videos-on-your-apple-tv-device/"><u>2024 Approved Streamline Watching Facebook Videos on Your Apple TV Device</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/country-garden-braces-for-potential-default-as-it-seeks-to-delay-bond-maturity-by-40-days/"><u>Country Garden Braces for Potential Default as It Seeks to Delay Bond Maturity by 40 Days</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/deciphering-hardware-errors-understanding-the-root-causes-behind-common-warning-alerts-with-insights-from-yl-software/"><u>Deciphering Hardware Errors: Understanding the Root Causes Behind Common Warning Alerts with Insights From YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/hong-kong-handover-in-97-a-retrospective-analysis-on-its-significant-effects-with-expertise-from-yl-computing-and-yl-software/"><u>Hong Kong Handover in '97 – A Retrospective Analysis on Its Significant Effects with Expertise From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/identifying-your-windows-os-version-via-control-panel-a-comprehensive-guide/"><u>Identifying Your Windows OS Version via Control Panel: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-amazons-enhanced-fire-tv-the-latest-upgrades-and-ai-integration-unveiled-by-zdnet/"><u>Introducing Amazon's Enhanced Fire TV: The Latest Upgrades and AI Integration Unveiled by ZDNet</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/streamline-karaoke-night-setup-with-a-simple-qr-code-for-instant-ksr-system-connection/"><u>Streamline Karaoke Night Setup with a Simple QR Code for Instant KSR System Connection.</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-2022s-pivotal-moments-in-google-news/"><u>Unraveling 2022'S Pivotal Moments in Google News</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-is-virtualdub-still-relevant-exploring-the-best-alternatives-for-2024/"><u>Updated Is Virtualdub Still Relevant? Exploring the Best Alternatives for 2024</u></a></li>
 </ul></div>
 

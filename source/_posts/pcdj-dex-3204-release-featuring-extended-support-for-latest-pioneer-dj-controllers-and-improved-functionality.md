@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2025-01-07T17:48:44.614Z
-updated: 2025-01-08T21:59:37.487Z
+date: 2025-01-13T05:07:19.059Z
+updated: 2025-01-15T00:06:08.267Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,24 +83,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>[New] 2024 Approved Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-audio-techniques-capturing-clear-sound-for-2024/"><u>[Updated] Essential Audio Techniques Capturing Clear Sound for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728506848750-windows-11/"><u>在 Windows 11 環境中成功設定自動系統備份：規劃方法及應用技巧</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comprehensive-guide-saving-and-recovering-windows-data-with-dex-3lyrx-step-by-step-video-tutorial/"><u>Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-secret-siri-shortcuts-unleash-new-powers-on-your-iphone/"><u>Discover the Secret Siri Shortcuts: Unleash New Powers on Your iPhone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-can-i-speed-up-my-computers-boot-process-tips-and-tricks-by-yl-computing/"><u>How Can I Speed Up My Computer's Boot Process? - Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-detect-and-fix-linkage-errors-among-your-computers-hardware-expert-advice-from-yl-software/"><u>How To Detect And Fix Linkage Errors Among Your Computer's Hardware - Expert Advice From YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-meizu-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Meizu Phone that is Locked?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715860814309-in-2024-snap-and-save-your-android-no-price-tag/"><u>In 2024, Snap & Save Your Android - No Price Tag!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/inshot-tips-achieving-seamless-video-segmentation-for-2024/"><u>Inshot Tips Achieving Seamless Video Segmentation for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mastering-the-art-of-crypto-asset-discovery-a-comprehensive-guide-by-yl-computing/"><u>Mastering the Art of Crypto Asset Discovery: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mpgwindows10/"><u>MPGファイルがWindows10で再生しない場合の効果的対策：ベスト選び方【詳細マニュアル】</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/recognizing-faulty-memory-a-step-by-step-guide-for-windows-pcs-insights-from-yl-computing/"><u>Recognizing Faulty Memory: A Step-by-Step Guide for Windows PCs - Insights From YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-hisenses-50inch-4k-hdr-television-quality-visuals-without-breaking-the-bank/"><u>Review of Hisense's 50Inch 4K HDR Television - Quality Visuals without Breaking the Bank</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/trasforma-la-tua-esperienza-di-gioco-su-msi-portatile-passando-da-hdd-a-ssd-passaggi-essenziali/"><u>Trasforma La Tua Esperienza Di Gioco Su MSI Portatile Passando Da HDD a SSD: Passaggi Essenziali</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/understanding-the-causes-of-color-bleeding-in-photo-prints-insights-from-yl-computing/"><u>Understanding the Causes of Color Bleeding in Photo Prints: Insights From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/win11-savvy-essentials-you-cant-miss/"><u>Win11 Savvy Essentials You Can't Miss</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/yl-softwares-guide-to-avoiding-cpu-failures-and-ensuring-longevity/"><u>YL Software's Guide to Avoiding CPU Failures and Ensuring Longevity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-android-compatible-gba-games-simulators-for-2024/"><u>[Updated] Top 10 Android Compatible GBA Games Simulators for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/wmp-for-windows-1011/"><u>關於WMP for Windows 10/11的高效佔用策略和免費檔案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-new-collaborations-and-broadens-product-lineup-for-q4-2019-insights-from-abbyys-newsroom/"><u>ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-facile-comment-copier-des-fichiers-video-dvd-sur-disque-dur-avec-windows-7-10-et-11-et-macos/"><u>Guide Facile : Comment Copier Des Fichiers Vidéo DVD Sur Disque Dur Avec Windows 7, 10 Et 11 ET macOS</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-pratique-pour-capturer-lecran-la-webcam-and-le-son-avec-winxvideo-ai-sur-windows/"><u>Guide Pratique Pour Capturer L’Écran, La Webcam & Le Son Avec Winxvideo AI Sur Windows</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mejores-tecnicas-para-reducir-el-tamano-de-los-videos-con-clipchamp/"><u>Mejores Técnicas Para Reducir El Tamaño De Los Videos Con Clipchamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/sound-struggles-winning-back-noise-from-windows-spacebar/"><u>Sound Struggles: Winning Back Noise From Windows' Spacebar</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/telecharger-les-meilleurs-extracteurs-de-dvd-gratuits-pour-windows-1011-version-complete/"><u>Télécharger Les Meilleurs Extracteurs De DVD Gratuits Pour Windows 10/11 : Version Complète</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-coolest-filmora-elements-for-enthusiastic-creators-for-2024/"><u>The Coolest Filmora Elements for Enthusiastic Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs/"><u>Updated In 2024, TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-non-indexable-content-decoding-the-unlisted-phenomenon-for-2024/"><u>YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon for 2024</u></a></li>
 </ul></div>
 
