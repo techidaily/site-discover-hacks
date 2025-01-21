@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2025-01-08T06:53:18.110Z
-updated: 2025-01-14T16:27:41.442Z
+date: 2025-01-17T13:43:22.599Z
+updated: 2025-01-21T01:03:37.227Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,18 +70,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/tudents-guide-to-top-10-best-history-youtube-sources/"><u>[New] Student's Guide to Top 10 Best History YouTube Sources</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-choices-for-professional-gopro-video-editing-for-2024/"><u>[New] Top Choices for Professional GoPro Video Editing for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-3-simple-copywriting-structure-for-facebook-ads/"><u>[Updated] In 2024, 3-Simple Copywriting Structure for Facebook Ads</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-finding-voice-changers-for-vtubers-two-best-app-recommended/"><u>2024 Approved Finding Voice Changers for Vtubers Two Best App Recommended</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-methods-for-deleting-unnecessary-cache-and-temp-data-on-your-pc-guidance-by-yl-computing/"><u>Effective Methods for Deleting Unnecessary Cache & Temp Data on Your PC - Guidance by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-the-cybersecurity-capabilities-of-windows-defender-against-viruses-and-online-menaces/"><u>Exploring the Cybersecurity Capabilities of Windows Defender Against Viruses and Online Menaces</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/high-definition-abstract-hexagon-wallpapers-and-desktop-graphics-premium-digital-art-by-yl-computing/"><u>High-Definition Abstract Hexagon Wallpapers & Desktop Graphics - Premium Digital Art by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/high-resolution-phone-wallpaper-hd-backgrounds-and-photo-collections-premium-designs-by-yl-computing/"><u>High-Resolution Phone Wallpaper HD Backgrounds & Photo Collections - Premium Designs by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-verify-and-update-device-drivers-for-optimal-performance-expert-advice-by-yl-software-solutions/"><u>How to Verify and Update Device Drivers for Optimal Performance - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-innovative-discussion-themes-for-vloggers/"><u>In 2024, Innovative Discussion Themes for Vloggers</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/renaming-folders-made-easy-a-guide-by-yl-computings-expert-team/"><u>Renaming Folders Made Easy: A Guide by YL Computing's Expert Team</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/solving-your-scanners-adapter-problem-expert-tips-from-yl-computing/"><u>Solving Your Scanner's Adapter Problem: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/the-mysterious-retention-of-data-files-4-methods-in-windows-11/"><u>The Mysterious Retention of Data Files: 4 Methods in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-enhanced-video-screen-record/"><u>[New] Audio-Enhanced Video Screen Record</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ively-letters-on-screen-bounce-with-ease-and-style-for-2024/"><u>[New] Lively Letters on Screen Bounce with Ease and Style for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pros-choice-top-laptop-recording-tools-reviewed/"><u>[Updated] 2024 Approved Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-professionalizing-virtual-collaboration-zoom-recording-tips/"><u>2024 Approved Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/cambie-su-video-mp4-por-un-formato-webm-sin-costo-alguno-usando-conversor-de-video-online-gratuito/"><u>Cambie Su Video MP4 Por Un Formato WebM Sin Costo Alguno Usando Conversor De Video Online Gratuito</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-perfect-your-morphvox-skills-a-complete-manual/"><u>In 2024, Perfect Your MorphVOX Skills A Complete Manual</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/les-3-methodes-pratiques-pour-transformer-des-videos-mpeg-4-en-fichiers-mp3-et-autres-formatages/"><u>Les 3 Méthodes Pratiques Pour Transformer Des Vidéos MPEG-4 en Fichiers MP3 Et Autres Formatages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-modern-tech-in-depth-analysis-and-reviews-at-tome-hardware-hub/"><u>Navigating Modern Tech: In-Depth Analysis & Reviews at Tom'e Hardware Hub</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/riconverti-i-file-ogg-in-formato-flac-con-una-pace-guida-esclusiva-e-gratuita-su-movavi/"><u>Riconverti I File OGG in Formato FLAC Con Una Pace: Guida Esclusiva E Gratuita Su Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-for-amplifying-your-followers-on-twitter/"><u>Step-by-Step Strategies for Amplifying Your Followers on Twitter</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-most-immersive-youtube-vr-films/"><u>Top 10 Most Immersive YouTube VR Films</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mp2-mov-movevideo/"><u>자이로닝 속도에서 MP2 MOV 전환 – 무료 간소화 방법 - MoveVideo</u></a></li>
 </ul></div>
 

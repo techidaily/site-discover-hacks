@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial"
-date: 2025-01-09T23:57:47.185Z
-updated: 2025-01-15T00:16:13.440Z
+date: 2025-01-16T04:57:33.594Z
+updated: 2025-01-20T16:26:28.845Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,20 +42,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-multiframe-views-in-edge/"><u>[New] Unlocking the Power of Multiframe Views in Edge</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-switch-game-screencasting-for-2024/"><u>[Updated] The Ultimate Guide to Switch Game Screencasting for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726219763765-mp3-movavi/"><u>完璧にMP3をカットする - Movavi ユーザーマニュアル</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726219957563-movavi/"><u>移動電話影片無需付錢地自動更改格式：Movavi畫質變換器</u></a></li>
-<li><a href="https://win-community.techidaily.com/effective-techniques-to-maintain-and-clean-your-printers-feed-roller-insights-from-yl-computing/"><u>Effective Techniques to Maintain and Clean Your Printer's Feed Roller: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/eliminar-elementos-de-fondo-del-video-con-tecnicas-avanzadas-no-necesitas-pantalla-verde/"><u>Eliminar Elementos De Fondo Del Video Con Técnicas Avanzadas, No Necesitas Pantalla Verde!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gratuito-convertitore-mp2-offline-movavi-scambiare-i-formati-di-file-senza-costi/"><u>Gratuito Convertitore MP2 Offline - Movavi: Scambiare I Formati Di File Senza Costi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 7 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/movavi-web-app-convertir-rapidamente-tu-contenido-ogg-a-avi-sin-costo-alguno/"><u>Movavi Web App: Convertir Rápidamente Tu Contenido OGG a AVI Sin Costo Alguno</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/movavis-free-gif-to-webm-online-transformer-edit-your-images-for-the-web/"><u>Movavi's Free GIF to Webm Online Transformer - Edit Your Images for the Web</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-14-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi 14 Pro Phone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-11-highest-ranking-free-image-format-changers-discover-movavi/"><u>Top 11 Highest-Ranking Free Image Format Changers - Discover Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-audio-experience-selecting-the-top-mics/"><u>Ultimate Audio Experience Selecting the Top Mics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-tips-on-how-to-terminate-unresponsive-windows-applications-immediately/"><u>Ultimate Tips on How to Terminate Unresponsive Windows Applications Immediately</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-a-primer-to-perfect-hdr-cameras-the-definitive-list/"><u>[Updated] 2024 Approved A Primer to Perfect HDR Cameras The Definitive List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-full-laptop-screencapture-experience/"><u>[Updated] 2024 Approved The Full Laptop ScreenCapture Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-locations-to-grab-snapchat-chime-downloads/"><u>[Updated] Prime Locations to Grab Snapchat Chime Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-fast-and-efficient-dvd-conversion-convert-your-dvds-to-mp4-format-in-just-5-minutes-with-winx-dvd-ripper-platinum/"><u>1. Fast and Efficient DVD Conversion: Convert Your DVDs to MP4 Format in Just 5 Minutes with WinX DVD Ripper Platinum</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/aston-martin-dbs-hd-picture-gallery-with-stunning-wallsavers-and-photo-ideas-by-yl-software/"><u>Aston Martin DBS HD Picture Gallery with Stunning Wallsavers and Photo Ideas by YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/boost-your-computer-speed-a-guide-by-yl-software-on-spotting-whats-holding-you-back/"><u>Boost Your Computer Speed: A Guide by YL Software on Spotting What's Holding You Back</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diy-solutions-for-troubleshooting-and-repairing-your-windows-pcs-hardware-tips-from-yl-software-experts/"><u>DIY Solutions for Troubleshooting and Repairing Your Windows PC's Hardware - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-data.techidaily.com/essential-routine-upkeep-practices-to-ensure-your-systems-optimal-performance-expert-advice-from-yl-computing/"><u>Essential Routine Upkeep Practices to Ensure Your System's Optimal Performance - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-can-organizations-safeguard-their-digital-assets-effectively-expert-insights-from-yl-computings-software-solutions/"><u>How Can Organizations Safeguard Their Digital Assets Effectively? Expert Insights From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-essential-are-software-updates-and-driver-upgrades-for-enhancing-pc-speed-expert-advice-by-yl-software/"><u>How Essential Are Software Updates and Driver Upgrades for Enhancing PC Speed? Expert Advice by YL Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-max-360-or-hero-11-a-comparative-look-at-gopro-cameras-footage/"><u>In 2024, Max 360 or Hero 11? A Comparative Look at GoPro Cameras' Footage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>New 2024 Approved Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-apple-ar-glasses-development-affordable-vision-tech-in-the-works-according-to-zdnet-reports/"><u>Revolutionary Apple AR Glasses Development: Affordable Vision Tech in the Works, According to ZDNet Reports</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/secure-your-scanning-operations-with-our-expert-installation-tips-yl-computings-essential-advice/"><u>Secure Your Scanning Operations with Our Expert Installation Tips - YL Computing's Essential Advice</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-establishing-a-signature-persona-on-youtube-for-2024/"><u>Step-by-Step Establishing a Signature Persona on YouTube for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/understanding-the-impact-of-federal-oversight-on-digital-currency-a-guide-by-yl-computing/"><u>Understanding the Impact of Federal Oversight on Digital Currency: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/unveiling-the-potential-gains-from-cryptocurrency-investments-with-guidance-from-yl-tech-experts/"><u>Unveiling the Potential Gains From Cryptocurrency Investments with Guidance From YL Tech Experts</u></a></li>
 </ul></div>
 
