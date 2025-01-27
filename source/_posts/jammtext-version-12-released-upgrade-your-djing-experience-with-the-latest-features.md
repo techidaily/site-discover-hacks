@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2025-01-17T13:43:22.599Z
-updated: 2025-01-21T01:03:37.227Z
+date: 2025-01-20T21:54:00.407Z
+updated: 2025-01-27T12:58:54.539Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,18 +70,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-enhanced-video-screen-record/"><u>[New] Audio-Enhanced Video Screen Record</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ively-letters-on-screen-bounce-with-ease-and-style-for-2024/"><u>[New] Lively Letters on Screen Bounce with Ease and Style for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pros-choice-top-laptop-recording-tools-reviewed/"><u>[Updated] 2024 Approved Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-professionalizing-virtual-collaboration-zoom-recording-tips/"><u>2024 Approved Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/cambie-su-video-mp4-por-un-formato-webm-sin-costo-alguno-usando-conversor-de-video-online-gratuito/"><u>Cambie Su Video MP4 Por Un Formato WebM Sin Costo Alguno Usando Conversor De Video Online Gratuito</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-perfect-your-morphvox-skills-a-complete-manual/"><u>In 2024, Perfect Your MorphVOX Skills A Complete Manual</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/les-3-methodes-pratiques-pour-transformer-des-videos-mpeg-4-en-fichiers-mp3-et-autres-formatages/"><u>Les 3 Méthodes Pratiques Pour Transformer Des Vidéos MPEG-4 en Fichiers MP3 Et Autres Formatages</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-modern-tech-in-depth-analysis-and-reviews-at-tome-hardware-hub/"><u>Navigating Modern Tech: In-Depth Analysis & Reviews at Tom'e Hardware Hub</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/riconverti-i-file-ogg-in-formato-flac-con-una-pace-guida-esclusiva-e-gratuita-su-movavi/"><u>Riconverti I File OGG in Formato FLAC Con Una Pace: Guida Esclusiva E Gratuita Su Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-for-amplifying-your-followers-on-twitter/"><u>Step-by-Step Strategies for Amplifying Your Followers on Twitter</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/0-most-immersive-youtube-vr-films/"><u>Top 10 Most Immersive YouTube VR Films</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mp2-mov-movevideo/"><u>자이로닝 속도에서 MP2 MOV 전환 – 무료 간소화 방법 - MoveVideo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[New] A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[New] Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>[Updated] 2024 Approved Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/2024-dvd-and/"><u>2024年度上市的綜合型免費 DVD & 電影複製器 - 最佳選擇</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/complete-navigation-list-for-wwwwinxdvdcom-officially-generated-site-map-pages/"><u>Complete Navigation List for www.winxdvd.com – Officially Generated Site Map Pages</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/create-secure-disk-images-and-backups-from-dvds-with-winx-dvd-copy-software/"><u>Create Secure Disk Images and Backups From DVDs with WinX DVD Copy Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725285676692-digiarty-winx-dvd/"><u>Digiarty WinX DVDファイナンスの使用手順とカスタマイズガイド</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-lensdirects-anti-blue-light-optics-for-precise-vision-improvement-and-eye-comfort/"><u>Evaluating LensDirect's Anti-Blue Light Optics for Precise Vision Improvement and Eye Comfort</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/h265-convertisseur-hd-encodeur-video-h265-optimal-sur-windowsmac/"><u>H.265 Convertisseur HD : Encodeur Vidéo H.265 Optimal Sur Windows/Mac</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/handbrake-unterstutzende-tipps-fur-ein-reibungsloses-abspielen-auf-verschiedenen-windows-versionen-v7v8v10vista/"><u>HandBrake Unterstützende Tipps Für Ein Reibungsloses Abspielen Auf Verschiedenen Windows-Versionen - V7/V8/V10/Vista</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-luminaries-for-greater-exposure/"><u>In 2024, Leveraging Luminaries for Greater Exposure</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-speedy-fb-uploads-how-to-get-there-fastest/"><u>In 2024, Speedy FB Uploads How to Get There Fastest</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/invisible-recording-of-skype-chats-for-mac-and-windows-users/"><u>Invisible Recording of Skype Chats for Mac and Windows Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/silencing-ambient-sounds-techniques-for-clearing-auditory-disturbances-for-2024/"><u>Silencing Ambient Sounds Techniques for Clearing Auditory Disturbances for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-screenshots-using-ezvides-capabilities/"><u>Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/ultimate-tutorial-how-to-move-films-from-dvds-directly-into-your-computers-storage-using-windows-and-macos-systems/"><u>Ultimate Tutorial: How to Move Films From DVDs Directly Into Your Computer's Storage Using Windows & macOS Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secure-operating-system-the-future-of-ai-data-center-management-tech-insights/"><u>Unveiling Apple's Secure Operating System: The Future of AI Data Center Management | Tech Insights</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/winx-dvd-ripper-platinum-rapidly-convert-dvds-to-high-quality-mp4-format-within-5-minutes/"><u>WinX DVD Ripper Platinum: Rapidly Convert DVDs to High-Quality MP4 Format Within 5 Minutes</u></a></li>
 </ul></div>
 

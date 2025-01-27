@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2025-01-14T08:09:38.218Z
-updated: 2025-01-21T05:28:45.390Z
+date: 2025-01-22T23:57:09.110Z
+updated: 2025-01-26T17:55:59.008Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,22 +83,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-integrate-sound-and-sight-web-studio-for-2024/"><u>[New] Integrate Sound & Sight Web Studio for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728506848750-windows-11/"><u>在 Windows 11 環境中成功設定自動系統備份：規劃方法及應用技巧</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-firsthand-look-at-the-cutting-edge-technology-in-galaxy-budsplus/"><u>A Firsthand Look at the Cutting-Edge Technology in Galaxy Buds+</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/complete-guide-for-recovering-lost-pictures-from-your-pc-using-windows-1011/"><u>Complete Guide for Recovering Lost Pictures From Your PC Using Windows 10/11</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comprehensive-guide-saving-and-recovering-windows-data-with-dex-3lyrx-step-by-step-video-tutorial/"><u>Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2019-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2019 file is not in recognizable format | Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-guide-to-memorable-anime-opens/"><u>In 2024, The Ultimate Guide to Memorable Anime Opens</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mastering-the-art-of-crypto-asset-discovery-a-comprehensive-guide-by-yl-computing/"><u>Mastering the Art of Crypto Asset Discovery: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mastering-the-solutions-overcoming-challenges-with-your-microsoft-account-login/"><u>Mastering the Solutions: Overcoming Challenges with Your Microsoft Account Login</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/minimum-and-recommended-computer-specs-needed/"><u>Minimum and Recommended Computer Specs Needed</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/recognizing-faulty-memory-a-step-by-step-guide-for-windows-pcs-insights-from-yl-computing/"><u>Recognizing Faulty Memory: A Step-by-Step Guide for Windows PCs - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionary-techniques-for-chronological-categorization-of-photographs-for-2024/"><u>Revolutionary Techniques for Chronological Categorization of Photographs for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snag-a-bargain-premium-apple-watch-offers-for-month-limited-time/"><u>Snag a Bargain: Premium Apple Watch Offers for [Month] – Limited Time</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-process-how-to-swiftly-update-synaptics-ps-input-device-drivers/"><u>Streamlined Process: How to Swiftly Update Synaptics' PS/# Input Device Drivers</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/trasforma-la-tua-esperienza-di-gioco-su-msi-portatile-passando-da-hdd-a-ssd-passaggi-essenziali/"><u>Trasforma La Tua Esperienza Di Gioco Su MSI Portatile Passando Da HDD a SSD: Passaggi Essenziali</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pioneering-film-making-skills-through-youtube-videos/"><u>[New] In 2024, Pioneering Film Making Skills Through YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[Updated] In 2024, Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-edge-40-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Edge 40 without App | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/champions-of-cutting-edge-vr-creation-for-2024/"><u>Champions of Cutting-Edge VR Creation for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/como-realizar-una-mejora-del-ssd-en-tu-hp-omen-asterisk-30l-mantener-o-reemplazar-el-disco-duro/"><u>Cómo Realizar Una Mejora Del SSD en Tu HP Omen Asterisk 30L - Mantener O Reemplazar El Disco Duro</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-ultime-de-comptoir-duplication-dynamique-sur-windows-11-des-astuces-et-methodes-temoignees/"><u>Guide Ultime De Comptoir Duplication Dynamique Sur Windows 11: Des Astuces Et Méthodes Témoignées</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-securely-backup-photographs-to-google-drive-four-key-strategies/"><u>How to Securely Backup Photographs to Google Drive: Four Key Strategies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-6-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-civi-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Civi 3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-av-producers-the-ultimate-web-watchlist/"><u>In 2024, Innovative AV Producers The Ultimate Web Watchlist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photos-to-pizzazz-android-and-iphones-prime-montage-software/"><u>In 2024, Photos to Pizzazz Android & iPhone's Prime Montage Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/masterclass-so-stellen-sie-die-synchronisierungsfunktion-von-onedrive-auf-ihrem-pc-ein-entweder-nur-vorubergehend-oder-langfristig/"><u>Masterclass: So Stellen Sie Die Synchronisierungsfunktion Von OneDrive Auf Ihrem PC Ein - Entweder Nur Vorübergehend Oder Langfristig</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-peaks-techniques-to-maximize-revenue-from-mobile-youtube-content-for-2024/"><u>Profit Peaks Techniques to Maximize Revenue From Mobile YouTube Content for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reviving-lost-data-on-your-usb-with-simple-cmd-solutions-top-3-methods/"><u>Reviving Lost Data on Your USB with Simple CMD Solutions (Top 3 Methods)</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-how-to-successfully-retrieve-unwantedly-removed-images/"><u>Step-by-Step Guide: How to Successfully Retrieve Unwantedly Removed Images</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/warum-es-unmoglich-ist-ein-itunes-backup-durchzufuhren-losungen-und-alternativen/"><u>Warum Es Unmöglich Ist, Ein iTunes-Backup Durchzuführen: Lösungen Und Alternativen</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728495351221-windows-115/"><u>Windows 11で共有フォルダへのアクセス障害を解消するための5つのコツ</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728484050986-2/"><u>パソコンからデータを抹消する最強の手段:ベスト2</u></a></li>
 </ul></div>
 
