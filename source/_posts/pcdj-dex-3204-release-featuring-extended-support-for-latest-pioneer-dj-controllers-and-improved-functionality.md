@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2025-02-04T09:40:41.510Z
-updated: 2025-02-09T01:21:43.148Z
+date: 2025-02-16T22:58:35.209Z
+updated: 2025-02-18T21:09:38.625Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,19 +83,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhance-engagement-personalize-twitter-videos-with-new-thumbnails-for-2024/"><u>[Updated] Enhance Engagement Personalize Twitter Videos with New Thumbnails for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-achieve-lightning-fast-periscope-transmission/"><u>2024 Approved How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-speeches-into-animated-videos/"><u>2024 Approved Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/bulk-deletion-of-images-from-your-plus-sized-iphone-a-step-by-step-guide/"><u>Bulk Deletion of Images From Your Plus-Sized iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convert-any-video-format-effortlessly-with-macx-premium-free-video-converter-for-apple-gadgets/"><u>Convert Any Video Format Effortlessly with MacX - Premium Free Video Converter for Apple Gadgets</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convert-youtube-tracks-instantly-using-our-premium-no-cost-youtube-audio-converter-tool/"><u>Convert YouTube Tracks Instantly Using Our Premium No-Cost YouTube Audio Converter Tool</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/easy-fix-for-mac-the-rippers-bad-sector-mishap-step-by-step-tutorial-inside/"><u>Easy Fix for Mac The Ripper's Bad Sector Mishap - Step-by-Step Tutorial Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-performance-improved-how-to-prevent-your-football-manager-2020-from-crashing/"><u>Game Performance Improved: How to Prevent Your Football Manager 2020 From Crashing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Xiaomi 13T Pro ?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-handbook-for-openai-api-mastery-and-applications/"><u>The Essential Handbook for OpenAI API Mastery and Applications</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/unlock-professional-results-effortless-dvd-ripping-and-imovie-conversion-using-macxs-top-rated-gratis-tool-for-macos-users/"><u>Unlock Professional Results: Effortless DVD Ripping & iMovie Conversion Using MacX's Top-Rated, Gratis Tool for macOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vlc-challenge-against-mx-player/"><u>VLC Challenge Against MX Player</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mac-youtube-macx/"><u>オンラインビデオをMac上に静止するための YouTube ダウナローダ - MacXユーティリティへようこそ</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-decoding-vsdcs-technology-against-top-screen-recorder-competitors-for-2024/"><u>[New] Decoding VSDC's Technology Against Top Screen Recorder Competitors for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-open-source-video-software-for-all-users/"><u>[New] Navigating Open Source Video Software for All Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dive-into-deep-sleep-with-expert-recommended-aspers-tactics/"><u>[Updated] In 2024, Dive Into Deep Sleep with Expert-Recommended Asper's Tactics</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/boost-your-gpu-efficiency-tips-from-yl-computing/"><u>Boost Your GPU Efficiency - Tips From YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/comprehensive-dell-data-protection-tutorial-for-windows-11-users/"><u>Comprehensive Dell Data Protection Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-pinpoint-precise-pictures-with-facebooks-search-tools/"><u>Comprehensive Guide to Pinpoint Precise Pictures with Facebook's Search Tools</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/decoding-beep-codes-understanding-your-motherboards-alert-signals-with-help-from-yl-computing-tech-experts/"><u>Decoding Beep Codes: Understanding Your Motherboard's Alert Signals with Help From YL Computing Tech Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-premium-free-srt-translation-services/"><u>In 2024, Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reverting-your-pcs-system-a-step-by-step-guide-tech-solutions-with-xyz/"><u>Reverting Your PC's System: A Step-by-Step Guide - Tech Solutions with XYZ</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-adjusting-your-display-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Display Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-unpacking-rar-files-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Unpacking RAR Files on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-techniques-for-system-clashes-with-expert-advice-from-yl-software/"><u>Troubleshooting Techniques for System Clashes with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-tips-resolving-incorrect-installation-of-your-scanners-drivers-yl-computing-guide/"><u>Troubleshooting Tips: Resolving Incorrect Installation of Your Scanner's Drivers - YL Computing Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-keeping-your-files-safe-with-these-5-steps/"><u>Ultimate Guide to Keeping Your Files Safe with These 5 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-the-microsoft-store-wont-install-an-app/"><u>What to Do If the Microsoft Store Won't Install an App</u></a></li>
 </ul></div>
 

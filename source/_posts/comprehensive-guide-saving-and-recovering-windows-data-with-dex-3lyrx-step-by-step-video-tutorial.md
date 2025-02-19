@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Saving & Recovering Windows Data with DEX 3/LYRX - Step-by-Step Video Tutorial"
-date: 2025-02-05T01:12:43.442Z
-updated: 2025-02-08T22:10:23.906Z
+date: 2025-02-15T06:37:52.395Z
+updated: 2025-02-19T05:03:24.139Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/10-fixes-for-windows-restoring-controllers-with-steam/"><u>10 Fixes for Windows: Restoring Controllers with Steam</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>2024 Approved Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-webinar-archiving/"><u>2024 Approved The Ultimate Guide to Webinar Archiving</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/dvd-vrdvd-video-dvd/"><u>DVD-VRフォームからDVD-Videoへの変換: DVDプレイヤー、パソコン、スマートフォン対応再生手順</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-facile-pour-convertir-des-disques-dvd-en-fichiers-video-numerique-pour-windows-et-macos/"><u>Guide Facile Pour Convertir Des Disques DVD en Fichiers Vidéo Numérique Pour Windows Et MacOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/honored-proposals-leading-ringtone-creators-iphone-for-2024/"><u>Honored Proposals Leading Ringtone Creators iPhone for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/laptop-go-from-microsoft-a-compact-budget-friendly-powerhouse-unveiled-in-reviews/"><u>Laptop Go From Microsoft: A Compact, Budget-Friendly Powerhouse Unveiled in Reviews</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-10-fuhrende-kostenfreie-video-bearbeitungs-tools-von-ki-perfekt-fur-windows-und-mac/"><u>Top 10 Führende Kostenfreie Video-Bearbeitungs-Tools Von KI - Perfekt Für Windows Und Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-creative-potential-macs-top-free-drawing-tools-for-2024/"><u>Unlock Creative Potential Mac's Top Free Drawing Tools for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725285942186-winx-dvd-ripper-platinum/"><u>どうやって無料で利用可能なWinX DVD Ripper Platinumリッピングライセンスを取得する?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-reimagining-streaming-experience-beyond-manycam/"><u>[New] 2024 Approved Reimagining Streaming Experience Beyond ManyCam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transforming-visuals-the-power-of-customized-luts-for-2024/"><u>[New] Transforming Visuals The Power of Customized LUTs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-astrological-flair-in-digital-self-portrayals-on-whatsapp-for-2024/"><u>[Updated] Astrological Flair in Digital Self-Portrayals on WhatsApp for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1732519189222-yl-computing-yl-software/"><u>唐代文学天霸：谱写中国古典佳话的传奇人物 - YL Computing | YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-value-tech-treats-for-a-luxe-experience-on-a-dime/"><u>Discover the Best Value Tech Treats for a Luxe Experience on a Dime.</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-management-of-dual-or-multiple-displays-in-windows-os-expert-advice-from-yl-software/"><u>Effective Management of Dual or Multiple Displays in Windows OS: Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/essential-tips-to-avoid-cpu-malfunction-insights-from-yl-computing/"><u>Essential Tips to Avoid CPU Malfunction: Insights From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-computers-speaker-drivers-from-causing-high-cpu-consumption-on-windows/"><u>How to Prevent Your Computer's Speaker Drivers From Causing High CPU Consumption on Windows</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/identifying-hardware-issues-a-step-by-step-guide-insights-from-yl-computing/"><u>Identifying Hardware Issues: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>In 2024, 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mastering-online-crypto-exchanges-safety-protocols-and-techniques-with-yl-softwares-expert-advice/"><u>Mastering Online Crypto Exchanges: Safety Protocols and Techniques with YL Software's Expert Advice</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reverting-network-settings-to-original-state-in-windows-os-expert-tips-from-yl-software/"><u>Reverting Network Settings to Original State in Windows OS: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-ctrl-failure-issues-in-windows-11-systems/"><u>Solving Ctrl Failure Issues in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-mechanics-behind-shared-links-in-chatgpt-an-in-depth-analysis/"><u>The Mechanics Behind Shared Links in ChatGPT: An In-Depth Analysis</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/unveiling-protection-layers-the-reliability-of-blockchain-address-balance-monitoring-software-by-yl-computing/"><u>Unveiling Protection Layers: The Reliability of Blockchain Address Balance Monitoring Software by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/your-comprehensive-guide-to-purchasing-and-reselling-digital-coins-with-yl-software/"><u>Your Comprehensive Guide to Purchasing & Reselling Digital Coins with YL Software</u></a></li>
 </ul></div>
 

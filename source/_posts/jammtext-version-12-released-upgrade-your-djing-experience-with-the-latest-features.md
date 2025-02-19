@@ -1,7 +1,7 @@
 ---
 title: "JammText Version 1.2 Released: Upgrade Your DJing Experience with the Latest Features"
-date: 2025-02-02T21:32:53.943Z
-updated: 2025-02-08T20:31:02.679Z
+date: 2025-02-12T05:21:53.185Z
+updated: 2025-02-19T01:44:24.653Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### JammText v1.2 includes several other new features:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 A new events page shows past event pictures and messages. DJs can export individual pictures from events or the entire event with a couple of clicks. As in previous version, [JammText v1.2](https://mixcityinc.com/jammtext.html?ref=8943&utm%5Fsource=PCDJ&utm%5Fmedium=referral&utm%5Fcampaign=PCDJ) includes a convenient HTML output so DJs can upload the pictures directly to their website. DJs can also export pictures directly from the message feed by right-clicking on the picture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Two new buttons have been added to the control window:
@@ -48,7 +48,7 @@ _**Upgrade or get JammText v1.2 today!**_
 _Have questions about JammText **interactive DJ software**? Please leave your questions in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,18 +70,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/jammtextv1.2-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-the-essentials-of-your-youtube-tv-experience/"><u>[New] 2024 Approved Decoding the Essentials of Your YouTube TV Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-audio-assistant-software-android-version-for-2024/"><u>[New] Top Audio Assistant Software, Android Version for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-transform-your-fb-vids-to-full-screen/"><u>[New] Transform Your FB Vids to Full Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-the-potential-of-your-instagram-content-with-video-edits/"><u>[Updated] 2024 Approved Unlock the Potential of Your Instagram Content with Video Edits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-locating-your-own-playlists-on-youtube/"><u>[Updated] Locating Your Own Playlists on Youtube</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/sd32022/"><u>如何轻松实现SD卡数据救助：3种最新策略（2022版）</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/5pww5o2u5lplusd5ywo77ya5lik56en5a6j5ywo6l2v5lu255uy5qc85byp5yyw5oqa5ben/"><u>数据保全：两种安全软件盘格式化技巧</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budget-savvy-gopro-upgrades-for-starters/"><u>Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/configuracion-avanzada-adicional-para-su-dispositivo/"><u>Configuración Avanzada Adicional Para Su Dispositivo</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-10-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 10 5G Fingerprint Lock</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/sauvegarde-et-restauration-dentreprise-avec-aomei-cyber-backup-pour-virtualisation-version-proprement-libre/"><u>Sauvegarde Et Restauration D'Entreprise Avec AOMEI Cyber Backup Pour Virtualisation : Version Proprement Libre !</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a78-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A78 Android SIM Unlock APK</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/what-happens-to-my-files-and-data-when-i-perform-a-factory-reset-on-windows/"><u>What Happens to My Files and Data When I Perform a Factory Reset on Windows?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-the-ultimate-guide-to-effective-youtube-banners/"><u>[New] 2024 Approved The Ultimate Guide to Effective YouTube Banners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-insiders-look-at-optimizing-youtube-video-audio-for-2024/"><u>[New] The Insider’s Look at Optimizing YouTube Video Audio for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-understanding-your-potential-earnings-as-a-podcaster-for-2024/"><u>[Updated] Understanding Your Potential Earnings as a Podcaster for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726226072680-10/"><u>10 가지 위젯리: 그린 스크린 없이 비디오에서 배경을 제거하는 최고의 방법</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-effective-methods-how-chatgpt-enhances-your-culinary-experience/"><u>7 Effective Methods: How ChatGPT Enhances Your Culinary Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-librement-aac-en-aiff-avec-le-service-en-ligne-gratuit-de-movavi-guide-complet-et-professionnel/"><u>Convertissez Librement AAC en AIFF Avec Le Service en Ligne Gratuit De Movavi – Guide Complet Et Professionnel</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guia-passo-a-passo-para-desfoque-de-video-metodos-tanto-offline-quanto-online/"><u>Guia Passo-a-Passo Para Desfoque De Vídeo: Métodos Tanto Offline Quanto Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-14-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 14 Properly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movavi-mp4swf/"><u>Movaviの無料変換サービス – オンデマンドにMP4からSWFへシームレスなコンバートを楽しむ方法</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mxfwav-movavi/"><u>MXFとWAVファイルの無料オンライン変換 - Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/risistema-avi-al-formato-ogv-fatto-da-web-free-di-movavi/"><u>Risistema AVI Al Formato OGV Fatto Da Web Free Di Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-best-lighting-tools-ranked-17-1-for-2024/"><u>YouTube's Best Lighting Tools Ranked #17-1 for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726223581961-gifwmv-movavi/"><u>영구제 무료 GIF/WMV 전환 - Movavi 원클리더</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/aiff-mp3/"><u>이탈리아의 오딘홀로: AIFF, MP3로의 영화/음악 유지 보호 전송 - 무료 온라인 옵션</u></a></li>
 </ul></div>
 
