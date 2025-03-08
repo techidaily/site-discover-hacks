@@ -1,7 +1,7 @@
 ---
 title: 「効果的な方法でセーガティス雲保存を構築するコツ」
-date: 2025-02-06T02:40:39.926Z
-updated: 2025-02-08T23:48:55.639Z
+date: 2025-03-05T22:19:19.694Z
+updated: 2025-03-07T21:37:57.727Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6f6094ec46399b3ab308c1c10a0d303a8a2fe57d58887a0de4be9b5a76727ac2.jpg
@@ -78,19 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -102,17 +94,9 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -148,27 +132,15 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -195,10 +167,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -236,10 +200,6 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,20 +216,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed-for-2024/"><u>[New] The Most Engaging AR Games for Phones Revealed for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-navigate-the-excellent-world-of-top-vr-cycling/"><u>2024 Approved Navigate the Excellent World of Top VR Cycling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-expert-tips-and-advice/"><u>Dive Into Hardware with Tom - Expert Tips & Advice</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/dvdmp4aviwmvmkv/"><u>DVDフォーマット変換ガイド：MP4、AVI、WMV、MKVへの変換方法</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-user-experience-with-cookiebot-seo-tools/"><u>Elevate User Experience With Cookiebot SEO Tools</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ending-white-sheet-saga-with-hp-printer-fix/"><u>Ending White Sheet Saga with HP Printer Fix</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/enhance-your-livestream-experience-discover-cutting-edge-features-with-manycam-the-ultimate-digital-camcorder-solution/"><u>Enhance Your Livestream Experience: Discover Cutting-Edge Features with ManyCam, the Ultimate Digital Camcorder Solution</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-facile-comment-copier-des-fichiers-video-dvd-sur-disque-dur-avec-windows-7-10-et-11-et-macos/"><u>Guide Facile : Comment Copier Des Fichiers Vidéo DVD Sur Disque Dur Avec Windows 7, 10 Et 11 ET macOS</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Camera Software</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lock-down-windows-a-step-by-step-guide-to-enhanced-computer-safety/"><u>Lock Down Windows: A Step-by-Step Guide to Enhanced Computer Safety</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/real-time-broadcasting-made-easy-with-manycam-the-ultimate-live-streaming-and-virtual-camera-solution/"><u>Real-Time Broadcasting Made Easy with ManyCam: The Ultimate Live Streaming and Virtual Camera Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-deleting-browser-history-and-cache-on-your-android-device/"><u>Step-by-Step Guide: Deleting Browser History & Cache on Your Android Device</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-stagnation-of-ideas-in-contemporary-vr-for-2024/"><u>The Stagnation of Ideas in Contemporary VR for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-windows-cutting-tools-for-editors-and-vids-for-2024/"><u>Top Windows Cutting Tools for Editors & Vids for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/winx-dvd-copy-pro-effortless-dvdiso-duplication-and-safe-backups-made-simple/"><u>WinX DVD Copy Pro: Effortless DVD/ISO Duplication and Safe Backups Made Simple</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6/"><u>[New] 2024 Approved Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-business-communication-essentials-free-slide-show-tools/"><u>[New] Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-use/"><u>[New] SNS HDR Pro Review Is It Worth Using and What Other HDR Software to Use?</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/beginners-tutorial-on-procuring-virtual-tokens-expert-advice-from-yl-software-solutions/"><u>Beginner's Tutorial on Procuring Virtual Tokens: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comprehensive-guide-to-preventing-virus-infections-on-your-computer-with-tips-from-yl-software-experts/"><u>Comprehensive Guide to Preventing Virus Infections on Your Computer with Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effective-solutions-for-troubleshooting-incorrect-printer-outputs-insights-from-yl-computings-expertise/"><u>Effective Solutions for Troubleshooting Incorrect Printer Outputs: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/enabling-autoplay-on-your-windows-11-pc-with-easy-steps-by-yl-software-experts/"><u>Enabling Autoplay on Your Windows 11 PC with Easy Steps by YL Software Experts</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-connect-an-external-hard-drive-to-a-windows-11-pc-a-step-by-step-guide/"><u>How to Connect an External Hard Drive to a Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-craft-contagious-instagram-visuals/"><u>How to Craft Contagious Instagram Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>In 2024, Top Gamers' Screen Guide Best Monitors at 4K Quality</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/surging-and-falling-holiday-rush-causes-spikes-in-guangzhous-gold-prices-leads-to-buyers-remorse-analysis-by-yl-tech-team/"><u>Surging and Falling: Holiday Rush Causes Spikes in Guangzhou's Gold Prices, Leads to Buyer's Remorse – Analysis by YL Tech Team</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/the-future-of-cryptocurrencies-transforming-the-global-economy-a-deep-dive-by-yl-software-experts/"><u>The Future of Cryptocurrencies: Transforming the Global Economy - A Deep Dive by YL Software Experts</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshooting-and-resolving-bad-ram-issues-with-expert-advice-by-yl-software-experts/"><u>Troubleshooting and Resolving Bad RAM Issues with Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-snowrunner-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Guide: How to Stop SnowRunner From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-switching-gpu-disabled-state/"><u>Windows Guide: Switching GPU Disabled State</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ADATA USBメモリー回復 - 失われたデータが一時間で完全再生可能
-date: 2025-02-07T03:29:22.729Z
-updated: 2025-02-09T00:21:04.590Z
+date: 2025-03-03T16:18:44.287Z
+updated: 2025-03-07T21:42:29.775Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d21887a298dcedb2ce73aa51.jpg
@@ -27,10 +27,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
 
@@ -74,10 +70,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
@@ -89,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -118,25 +106,13 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -161,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -172,10 +144,6 @@ Sicherer Download
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,24 +232,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-brightening-filmmaking-ranking-the-17-best-lights/"><u>[New] In 2024, Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-spectacular-scrutiny-and-different-directions/"><u>[New] In 2024, Spectacular Scrutiny & Different Directions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story-for-2024/"><u>[New] Mastering Desktop & Mobile The Best Ways to Download FB Story for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost-for-2024/"><u>[New] Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-premier-websites-for-mystery-box-shopping-delights/"><u>[Updated] 10 Premier Websites for Mystery Box Shopping Delights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-seamless-srt-to-sub-a-comprehensive-guide/"><u>[Updated] 2024 Approved Seamless SRT to SUB A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-strategic-approaches-to-metaverse-promotion-for-2024/"><u>[Updated] Strategic Approaches to Metaverse Promotion for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/18-fainomena-epitheth-dwroymena-gennada-windows-kai-mac/"><u>18 Φαινόμενα Επιθέτη Δωρούμενα Γεννάδα [Windows Και Mac]</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726219957563-movavi/"><u>移動電話影片無需付錢地自動更改格式：Movavi畫質變換器</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effiziente-konvertierung-von-nef-zu-jpeg-mit-movavi-top-tools-fur-professionelle-foto-bearbeitung/"><u>Effiziente Konvertierung Von NEF Zu JPEG Mit Movavi - Top Tools Für Professionelle Foto Bearbeitung</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effortless-audio-enabled-screen-recording-techniques-in-windows-11-discover-4-effective-solutions/"><u>Effortless Audio-Enabled Screen Recording Techniques in Windows 11, Discover 4 Effective Solutions!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gratuito-conversor-online-movi-avi-para-dvd-e-mp4-sem-custo-movavi/"><u>Gratuito Conversor Online: Movi, AVI Para DVD E MP4 Sem Custo - Movavi</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gratuito-convertitore-mp2-offline-movavi-scambiare-i-formati-di-file-senza-costi/"><u>Gratuito Convertitore MP2 Offline - Movavi: Scambiare I Formati Di File Senza Costi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-k11x-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo K11x Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-20-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 20</u></a></li>
-<li><a href="https://games-able.techidaily.com/internet-efficiency-solutions-to-lower-your-networks-response-time/"><u>Internet Efficiency: Solutions to Lower Your Network's Response Time</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mkv-in-gratis-online-wmv-omzetten-expertise-en-hulp-bij-movavi-konvertering/"><u>MKV in Gratis Online WMV Omzetten - Expertise en Hulp Bij Movavi Konvertering</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/movavi-web-app-convertir-rapidamente-tu-contenido-ogg-a-avi-sin-costo-alguno/"><u>Movavi Web App: Convertir Rápidamente Tu Contenido OGG a AVI Sin Costo Alguno</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-11-highest-ranking-free-image-format-changers-discover-movavi/"><u>Top 11 Highest-Ranking Free Image Format Changers - Discover Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-high-performance-tools-youtube-meets-twitter/"><u>[New] In 2024, High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-uncovering-the-absence-of-sound-hardware-in-your-pcs-device-management-insights-from-yl-computing/"><u>1. Uncovering the Absence of Sound Hardware in Your PC's Device Management - Insights From YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-quintessential-underwater-accessories-for-gopro/"><u>2024 Approved Quintessential Underwater Accessories for Gopro</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/bitcoin-surpasses-sandp-500-performance-in-oct-forecasts-of-40k-target-intensify-insights-by-yl-computing/"><u>Bitcoin Surpasses S&P 500 Performance in Oct; Forecasts of $40K Target Intensify - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/easy-guide-configuring-parent-controls-via-windows-control-panel-tips-from-yl-computing/"><u>Easy Guide: Configuring Parent Controls via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/gastronomic-genius-ideal-culinary-network-name-strategies/"><u>Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 13 mini</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-mobile-photography-with-androids-lightroom-for-2024/"><u>Mastering Mobile Photography with Android’s Lightroom for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-address-windows-oculus-integration-issues/"><u>Methods to Address Windows-Oculus Integration Issues</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/protect-your-graphics-hardware-from-failure-with-proven-techniques-insights-by-yl-software-expertise/"><u>Protect Your Graphics Hardware From Failure with Proven Techniques - Insights by YL Software Expertise</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/solve-your-windows-compatibility-woes-with-proven-strategies-by-yl-computing/"><u>Solve Your Windows Compatibility Woes with Proven Strategies by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-tempo-change-software-showcase-mobile-pc-for-2024/"><u>Speedy Tempo Change Software Showcase (Mobile, PC) for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/tips-and-tricks-avoiding-scanner-malfunctions-with-yl-computing-solutions/"><u>Tips and Tricks: Avoiding Scanner Malfunctions with YL Computing Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-p55plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel P55+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-strategies-for-keeping-your-graphics-card-safe-from-harm-insights-by-yl-computing/"><u>Top Strategies for Keeping Your Graphics Card Safe From Harm - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/trouble-locating-scanner-drivers-on-windows-solutions-from-yl-computing/"><u>Trouble Locating Scanner Drivers on Windows: Solutions From YL Computing</u></a></li>
 </ul></div>
 

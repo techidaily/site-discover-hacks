@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Data: Copying a Big Hard Drive Onto a Small SSD on Windows 11"
-date: 2025-02-03T09:48:26.889Z
-updated: 2025-02-08T21:50:45.027Z
+date: 2025-03-04T00:10:23.791Z
+updated: 2025-03-08T01:25:36.974Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f345c561509fddb26d5e877149.jpg
@@ -24,17 +24,9 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -114,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -134,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -148,17 +128,9 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -169,10 +141,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -234,10 +198,6 @@ Recover deleted & lost data from any disasters in Windows.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -256,18 +216,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[New] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-alteration-of-nat-types-in-windows-operating-systems/"><u>Effective Alteration of NAT Types in Windows Operating Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gratis-online-f4v-naar-mp3-vervangen-professioneel-door-movavi/"><u>Gratis Online F4V Naar MP3 Vervangen - Professioneel Door Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-10-video-making-apps-iphone-android-edition/"><u>In 2024, Top 10 Video-Making Apps IPhone, Android Edition</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/inizia-oggi-impara-a-impostare-i-punti-di-recupero-automatici-in-windows-server-2016-con-facilita/"><u>Inizia Oggi! Impara a Impostare I Punti Di Recupero Automatici in Windows Server 2016 Con Facilità</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/langkah-mantap-untuk-menemukan-dan-mendapatkan-data-terlupakan-dari-hard-disk-eksternal/"><u>Langkah Mantap Untuk Menemukan Dan Mendapatkan Data Terlupakan Dari Hard Disk Eksternal</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/les-strategies-avancees-en-matiere-de-preservation-et-protection-des-donnees-vm-methodes-efficaces-et-recommandees/"><u>Les Stratégies Avancées en Matière De Préservation Et Protection Des Données VM : Méthodes Efficaces Et Recommandées</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-tiktok-duets-a-comprehensive-walkthrough/"><u>Mastering the Art of TikTok Duets: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-update-guide-for-windows-and-a6200-netgear-dongle/"><u>Quick Update Guide for Windows & A6200 Netgear Dongle</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-tutorial-on-using-itunes-for-a-full-ios-data-restoration-onto-a-fresh-iphone-device/"><u>Step-by-Step Tutorial on Using iTunes for a Full iOS Data Restoration Onto a Fresh iPhone Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-8-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 8 from iCloud</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-followers-to-fans-a-strategic-approach-to-instagram-brand-alliances/"><u>[Updated] 2024 Approved From Followers to Fans A Strategic Approach to Instagram Brand Alliances</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-transition-magic-quick-fade-tactics/"><u>[Updated] In 2024, Transition Magic Quick Fade Tactics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-recover-missing-youtube-like-icon-in-fb-watch/"><u>2024 Approved Recover Missing YouTube-Like Icon in FB Watch</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/ecco-come-trasformare-rapidamente-i-tuoi-filmati-mkv-in-formato-mp4-mantenendo-lalto-livello-di-qualita/"><u>Ecco Come Trasformare Rapidamente I Tuoi Filmati MKV in Formato MP4 Mantenendo L'alto Livello Di Qualità!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effimero-a-domicilio-estrai-i-tuoi-film-dai-dvd-senza-costi-con-il-prodotto-dvd-ripper-2e-editione-2020-garantito-sicuro-e-facile-da-usare/"><u>Effimero a Domicilio: Estrai I Tuoi Film Dai DVD Senza Costi Con Il Prodotto DVD Ripper 2E Editione 2020 - Garantito Sicuro E Facile Da Usare</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/elevate-your-viewing-experience-with-these-5-expert-strategies-to-convert-standard-definition-into-breathtaking-4k-quality/"><u>Elevate Your Viewing Experience with These 5 Expert Strategies to Convert Standard Definition Into Breathtaking 4K Quality</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/expert-picks-20-leading-mkv-video-players-for-cross-platform-use-on-mac-os-windows-10-iphoneipad-and-android-devices/"><u>Expert Picks: 20 Leading MKV Video Players for Cross-Platform Use on Mac OS, Windows 10, iPhone/iPad, and Android Devices</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/explore-digiarty-software-co-ltd-windowsdvd-comprehensive-enterprise-info/"><u>Explore Digiarty Software Co., Ltd. (Windows/DVD) - Comprehensive Enterprise Info</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-mpeg-files-into-flv-format-with-ease-moveavi/"><u>Free Online Converter: Change MPEG Files Into FLV Format with Ease - MoveAVI</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-c32-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nokia C32 Device</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/solving-the-amazon-prime-video-blackout-problem-a-comprehensive-guide/"><u>Solving the Amazon Prime Video Blackout Problem: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-ranked-digital-art-suite-unleash-creativity-with-digiartys-advanced-tools/"><u>Top Ranked Digital Art Suite - Unleash Creativity with Digiarty's Advanced Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram-for-2024/"><u>Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-mastery-unleashing-advanced-video-editing-with-tutorialai/"><u>WinXVideo Mastery: Unleashing Advanced Video Editing with TutorialAI</u></a></li>
 </ul></div>
 

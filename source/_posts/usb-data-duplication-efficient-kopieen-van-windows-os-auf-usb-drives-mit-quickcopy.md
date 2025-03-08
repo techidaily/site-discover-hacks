@@ -1,7 +1,7 @@
 ---
 title: USB Data Duplication | Efficiënt Kopieën Van Windows OS Auf USB-Drives Mit QuickCopy
-date: 2025-02-07T05:44:20.186Z
-updated: 2025-02-08T19:54:47.024Z
+date: 2025-03-04T20:23:20.537Z
+updated: 2025-03-07T19:31:17.248Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c22032956cf343f01ab1f87ea6c8.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -60,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -75,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -100,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -144,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -157,10 +137,6 @@ Take disk backup as an example. Follow the step below to backup your computer di
 Select the corresponding backup methods if you want to backup system, partition or individual files.
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
@@ -174,10 +150,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -237,17 +209,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -277,10 +241,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -298,22 +258,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfect-video-demos-in-adobe-captivate/"><u>[New] In 2024, Perfect Video Demos in Adobe Captivate</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revamping-graphic-design-with-non-acid-pro-options/"><u>[New] Revamping Graphic Design with Non-ACID Pro Options</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sovled-necromunda-hired-gun-solving-windows-computer-crashes-during-playtime/"><u>[SOVLED] Necromunda: Hired Gun - Solving Windows Computer Crashes During Playtime</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androidios-essentials-cutting-edge-video-montage-software/"><u>[Updated] Android/iOS Essentials Cutting-Edge Video Montage Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastery-through-snips-unveiling-macs-top-5-tools/"><u>[Updated] In 2024, Mastery Through Snips Unveiling Mac's Top 5 Tools</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725289512339-dvdwindowsandmac/"><u>「DVD自動焼きに必要不可欠！無料プログラムとその使い方：Windows&Macユーザー向けガイド」</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/2-esplora-le-specifiche-tecniche-dellai-di-winxvideo-guida-completa-per-utenti-professionisti/"><u>2. Esplora Le Specifiche Tecniche Dell'AI Di WinXVideo – Guida Completa per Utenti Professionisti</u></a></li>
-<li><a href="https://win11.techidaily.com/aligning-files-and-directories-in-modern-windows/"><u>Aligning Files & Directories in Modern Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-macbook-owners-with-faulty-butterfly-keyboard-begin-receiving-up-to-395-refund-per-unit/"><u>Apple MacBook Owners with Faulty Butterfly Keyboard Begin Receiving Up To $395 Refund Per Unit</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convertire-file-ts-in-mp4-senza-compromettere-la-quality-4-facili-strategie/"><u>Convertire File TS in MP4 Senza Compromettere La Quality: 4 Facili Strategie</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-syncing-tweeting-videos-onto-snapchat-channels-for-2024/"><u>Direct Syncing Tweeting Videos Onto Snapchat Channels for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/dxgidll-gone-unveiling-win11-remedy-steps/"><u>Dxgi.dll Gone? Unveiling Win11 Remedy Steps</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-setup-handbrake-and-libdvdcss-for-legal-dvd-ripping-on-macwindows-11-systems/"><u>How to Setup Handbrake & Libdvdcss for Legal DVD Ripping on Mac/Windows 11 Systems</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1725285882266-iphonedvd/"><u>IPhoneにフィットするDVDの視聴:様々な手段で簡単に楽しむ方法</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/massive-discount-get-75-off-winx-ultimate-media-suite-with-exclusive-license-key-dual-dvd-ripping-and-advanced-video-conversion/"><u>Massive Discount: Get 75% Off WinX Ultimate Media Suite with Exclusive License Key - Dual DVD Ripping and Advanced Video Conversion</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transform-images-and-videos-using-winxvideo-ai-expert-level-enhancing-upgrading-stabilization-format-conversion-and-video-production-services/"><u>Transform Images and Videos Using WinxVideo AI - Expert-Level Enhancing, Upgrading, Stabilization, Format Conversion & Video Production Services</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/winx-hd-video-converter-for-mac-faqtech-support-digiarty-software/"><u>WinX HD Video Converter for Mac - FAQとTech Support: Digiarty Softwareの解答</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-complete-breakdown-of-game-capture-in-overwatch/"><u>[Updated] 2024 Approved The Complete Breakdown of Game Capture in Overwatch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017-for-2024/"><u>[Updated] The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-journey-through-windows-11s-latest-software/"><u>2024 Approved Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/erhalten-sie-die-kontrolle-uber-ihr-pc-setup-in-windows-10-mit-diesen-beiden-rucksetzungsmethoden-ohne-dateien-zu-verlieren/"><u>Erhalten Sie Die Kontrolle Über Ihr PC-Setup in Windows 10 Mit Diesen Beiden Rücksetzungsmethoden, Ohne Dateien Zu Verlieren</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exzellente-strategien-zum-hochladen-von-daten-von-einer-festplatte-zur-anderen/"><u>Exzellente Strategien Zum Hochladen Von Daten Von Einer Festplatte Zur Anderen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-wwe-2k22-constant-pc-game-crashes-effective-techniques-explored/"><u>Fixing WWE 2K22 Constant PC Game Crashes - Effective Techniques Explored</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-ultime-de-comptoir-duplication-dynamique-sur-windows-11-des-astuces-et-methodes-temoignees/"><u>Guide Ultime De Comptoir Duplication Dynamique Sur Windows 11: Des Astuces Et Méthodes Témoignées</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-volume-control-strategies-in-logic-pro-productions/"><u>In 2024, Volume Control Strategies in Logic Pro Productions</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/masterclass-so-stellen-sie-die-synchronisierungsfunktion-von-onedrive-auf-ihrem-pc-ein-entweder-nur-vorubergehend-oder-langfristig/"><u>Masterclass: So Stellen Sie Die Synchronisierungsfunktion Von OneDrive Auf Ihrem PC Ein - Entweder Nur Vorübergehend Oder Langfristig</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reviving-lost-data-on-your-usb-with-simple-cmd-solutions-top-3-methods/"><u>Reviving Lost Data on Your USB with Simple CMD Solutions (Top 3 Methods)</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-how-to-successfully-retrieve-unwantedly-removed-images/"><u>Step-by-Step Guide: How to Successfully Retrieve Unwantedly Removed Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-complete-voice-memo-primer-tips-and-tricks/"><u>The Complete Voice Memo Primer Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-digital-portfolio-with-onscreen-cropping/"><u>Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/warum-es-unmoglich-ist-ein-itunes-backup-durchzufuhren-losungen-und-alternativen/"><u>Warum Es Unmöglich Ist, Ein iTunes-Backup Durchzuführen: Lösungen Und Alternativen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Build a Windows Server 2019 Recovery Drive Using a Flash Drive"
-date: 2025-02-03T18:49:48.678Z
-updated: 2025-02-09T08:07:17.225Z
+date: 2025-03-04T18:06:41.600Z
+updated: 2025-03-07T23:53:37.605Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce21cadff2a0841b9ab0ad5414.jpg
@@ -62,17 +62,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
@@ -93,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -122,17 +110,9 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -156,10 +136,6 @@ Sicherer Download
 **Schritt 1**. Wählen Sie auf der linken Registerkarte „**Backup**“ und dann „**Dateisicherung**“.
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
@@ -231,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -243,15 +215,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,22 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-leading-8-software-for-linux-video-editors/"><u>[New] 2024 Approved Leading 8 Software for Linux Video Editors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-apods-made-simple-the-ultimate-audio-solution-for-2024/"><u>[New] APods Made Simple The Ultimate Audio Solution for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-flawless-video-calls-screen-sharing/"><u>[New] In 2024, Unlocking the Secrets of Flawless Video Calls (Screen Sharing)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/affordable-gaming-beast-the-asus-rog-nuc-comes-equipped-with-core-i5-155h-and-rtx-4060-at-a-price-tag-of-1629/"><u>Affordable Gaming Beast: The Asus ROG NUC Comes Equipped With Core I5-155H & RTX 4060 at a Price Tag of $1,629</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/beginners-guide-mastering-cryptocurrency-trades-tips-from-yl-computing-and-yl-software/"><u>Beginner's Guide: Mastering Cryptocurrency Trades - Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-differences-between-igtv-and-youtube-for-effective-posts-for-2024/"><u>Exploring Differences Between IGTV and YouTube for Effective Posts for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/exploring-the-origins-of-chinas-great-peace-utopia-in-the-19th-century-revelations-from-yl-technology-experts/"><u>Exploring the Origins of China’s Great Peace Utopia in the 19Th Century: Revelations From YL Technology Experts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-microsofts-official-bluetooth-drivers-updated-support-for-all-windows-versions/"><u>Find & Install Microsoft's Official Bluetooth Drivers: Updated Support for All Windows Versions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/immersive-ultra-hd-hulk-wallpaper-series-from-yl-computing-unleash-your-desktops-potential/"><u>Immersive Ultra HD Hulk Wallpaper Series From YL Computing: Unleash Your Desktop's Potential</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mastering-crypto-safety-proven-strategies-from-yl-computing-to-guard-your-virtual-fortune/"><u>Mastering Crypto Safety: Proven Strategies From YL Computing to Guard Your Virtual Fortune</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/personalizing-your-mouse-experience-a-step-by-step-guide-with-yl-computing-tools/"><u>Personalizing Your Mouse Experience: A Step-by-Step Guide with YL Computing Tools</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/preventing-system-damage-how-to-tell-if-your-computers-too-hot-tips-from-yl-solutions/"><u>Preventing System Damage: How to Tell If Your Computer's Too Hot - Tips From YL Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sensibility-in-software-can-computers-get-a-grip-on-feelings/"><u>Sensibility in Software: Can Computers Get a Grip on Feelings?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-on-mastering-the-art-of-illumination-for-youtube-videos/"><u>Shine On Mastering the Art of Illumination for YouTube Videos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/understanding-legal-considerations-navigating-cryptocurrency-use-with-compliance-insights-by-yl-computing/"><u>Understanding Legal Considerations: Navigating Cryptocurrency Use with Compliance - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/unlock-the-secrets-of-smart-cryptocurrency-spending-discover-the-power-of-address-balance-monitoring-by-yl-software/"><u>Unlock the Secrets of Smart Cryptocurrency Spending: Discover the Power of Address Balance Monitoring by YL Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-game-on-everywhere-selecting-top-5-emulators-for-playing-gb-classics-on-windows-pcs/"><u>[New] 2024 Approved Game On Everywhere! - Selecting Top 5 Emulators for Playing GB Classics on Windows PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-breaking-into-solos-creating-popular-podcasts/"><u>[New] Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-building-a-studio-quality-setup-at-home/"><u>[New] In 2024, Building a Studio-Quality Setup at Home</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-green-thumbs-united-top-10-farm-titles-for-friendly-playtime-for-2024/"><u>[Updated] Green Thumbs United Top 10 Farm Titles for Friendly Playtime for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mp4-ifo-mp4-movavi/"><u>靈活便利的 MP4 文件轉換方法: IFO 到 MP4 使用 Movavi 電影轉換器簡單上手教程</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/movaviaiffmp3/"><u>使用Movavi免费在线将AIFF文件转换为MP3格式 - 简单直观的音乐数据转换</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/cambiar-archivos-de-imagen-al-formato-jpeg-con-facilidad-y-gratuitamente-por-internet-movavi/"><u>Cambiar Archivos De Imagen Al Formato JPEG Con Facilidad Y Gratuitamente Por Internet - Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/conversion-libera-online-di-file-ogg-in-formato-ogv-con-movavi/"><u>Conversion Libera Online Di File OGG in Formato OGV Con Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-create-your-own-virtual-reality-gear-with-google-cards-for-2024/"><u>How to Create Your Own Virtual Reality Gear with Google Cards for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro/"><u>In 2024, Unveil Your Creative Potential Comprehensive Guide to PowerDirector Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythmic-rarities-assembling-the-best-dj-video-samples-for-2024/"><u>Rhythmic Rarities Assembling the Best DJ Video Samples for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/the-ultimate-list-of-high-quality-screencast-software-on-windows-discover-what-movavi-recommends/"><u>The Ultimate List of High-Quality Screencast Software on Windows - Discover What Movavi Recommends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rezensierte-audiodatei-ripper-fur-windows-11-und-macos-bestenliste/"><u>Top-Rezensierte Audiodatei-Ripper Für Windows 11 Und macOS – Bestenliste</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-archivos-mp4-con-el-conversor-gratis-en-linea-para-mpg-por-movavi-como-hacerlo-paso-a-paso/"><u>Transforma Archivos MP4 Con El Conversor Gratis en Línea Para MPG Por Movavi – Cómo Hacerlo Paso a Paso</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tus-videos-libremente-guia-para-convertir-archivo-wmv-en-mkv-sin-coste/"><u>Transforma Tus Videos Libremente: Guía Para Convertir Archivo WMV en MKV Sin Coste</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformacion-gratuita-y-en-linea-de-archivos-sin-perdida-de-calidad-al-formato-wav/"><u>Transformación Gratuita Y en Línea De Archivos Sin Pérdida De Calidad Al Formato WAV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y17s-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y17s FRP Bypass</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219135449-movavi/"><u>고객을 선택하는 데 중요한 사례: Movavi의 동료 소프트웨어</u></a></li>
 </ul></div>
 

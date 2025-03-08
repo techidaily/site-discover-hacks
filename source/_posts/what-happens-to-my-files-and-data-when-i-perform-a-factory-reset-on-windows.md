@@ -1,7 +1,7 @@
 ---
 title: What Happens to My Files and Data When I Perform a Factory Reset on Windows?
-date: 2025-02-02T22:28:40.037Z
-updated: 2025-02-08T23:14:01.584Z
+date: 2025-03-02T01:33:30.391Z
+updated: 2025-03-07T23:15:08.498Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
@@ -28,10 +28,6 @@ By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [About Norton Ghost](https://tools.techidaily.com/ubackup/products/)
@@ -54,10 +50,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -76,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -88,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -123,10 +107,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Free Alternative to Norton Ghost
 
 [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) is one backup, restore and clone software designed for Windows users. Support all Windows OS including Windows 11/10/8.1/8/7\. It offers more powerful functions compared to Norton Ghost, and it’s free.
@@ -148,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -161,10 +137,6 @@ Take disk backup as an example. Follow the step below to backup your computer di
 Select the corresponding backup methods if you want to backup system, partition or individual files.
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
@@ -191,14 +163,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -244,10 +208,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -298,22 +258,16 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-instagram-videography-capturing-attention/"><u>[New] In 2024, The Art of Instagram Videography Capturing Attention</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-pick-prodigious-insta-hlv-pages-creators/"><u>[Updated] 2024 Approved Top Pick Prodigious Insta HLV Pages Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-art-of-drafting-alluring-vlog-show-content/"><u>[Updated] The Art of Drafting Alluring Vlog Show Content</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1-enhancing-your-pcs-performance-strategies-for-boosting-processor-speeds-with-yl-software-solutions/"><u>1. Enhancing Your PC's Performance: Strategies for Boosting Processor Speeds with YL Software Solutions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-your-ultimate-guide-to-affordable-vector-design-websites/"><u>2024 Approved Your Ultimate Guide to Affordable Vector Design Websites</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/decoding-top-cryptocurrency-shifts-and-their-impacts-with-yl-software-guidance/"><u>Decoding Top Cryptocurrency Shifts and Their Impacts with YL Software Guidance</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-management-of-dual-or-multiple-displays-in-windows-os-expert-advice-from-yl-software/"><u>Effective Management of Dual or Multiple Displays in Windows OS: Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/essential-tips-to-avoid-cpu-malfunction-insights-from-yl-computing/"><u>Essential Tips to Avoid CPU Malfunction: Insights From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-permissions-hurdle-become-an-admin-instantly/"><u>Fix Permissions Hurdle - Become an Admin Instantly</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/identifying-ram-issues-before-they-escalate-expert-insights-from-yl-software/"><u>Identifying RAM Issues Before They Escalate – Expert Insights From YL Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-high-frame-rate-filming-with-yi/"><u>In 2024, Exploring High Frame Rate Filming with YI</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mastering-video-metrics-the-role-of-thumbnail-size/"><u>In 2024, Mastering Video Metrics The Role of Thumbnail Size</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4-format-change-made-easy-and-gratis-with-online-video-editor-discover-movavi-solutions/"><u>MP4 Format Change Made Easy and Gratis with Online Video Editor - Discover Movavi Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/resolving-ram-malfunctions-step-by-step-guidance-by-yl-software-experts/"><u>Resolving RAM Malfunctions: Step-by-Step Guidance by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/tune-into-success-constructing-your-youtube-playlist-for-2024/"><u>Tune Into Success Constructing Your YouTube Playlist for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/uncover-the-root-of-your-device-driver-issues-expert-insights-from-yl-computing/"><u>Uncover the Root of Your Device Driver Issues: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/yl-software-reviews-effective-remedies-for-your-overheated-motherboard-woes/"><u>YL Software Reviews: Effective Remedies for Your Overheated Motherboard Woes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-techniques-for-audiovisual-professionals-in-filmora/"><u>[New] 2024 Approved Cutting Edge Techniques for Audio/Visual Professionals in Filmora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-instantvideo-snipper-fb-edition/"><u>[New] In 2024, InstantVideo Snipper - FB Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irtual-vanguard-10-most-liked-youtubers-for-2024/"><u>[New] Virtual Vanguard 10 Most Liked YouTubers for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726226072680-10/"><u>10 가지 위젯리: 그린 스크린 없이 비디오에서 배경을 제거하는 최고의 방법</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guia-passo-a-passo-para-desfoque-de-video-metodos-tanto-offline-quanto-online/"><u>Guia Passo-a-Passo Para Desfoque De Vídeo: Métodos Tanto Offline Quanto Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/precision-adjustment-of-iphone-photo-dimensions-revealed-for-2024/"><u>Precision Adjustment of iPhone Photo Dimensions Revealed for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/risistema-avi-al-formato-ogv-fatto-da-web-free-di-movavi/"><u>Risistema AVI Al Formato OGV Fatto Da Web Free Di Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726223581961-gifwmv-movavi/"><u>영구제 무료 GIF/WMV 전환 - Movavi 원클리더</u></a></li>
 </ul></div>
 

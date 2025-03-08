@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality
-date: 2025-02-16T22:58:35.209Z
-updated: 2025-02-18T21:09:38.625Z
+date: 2025-03-06T22:18:03.585Z
+updated: 2025-03-07T23:37:53.253Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Also, a series of updates are included for the built-in streaming services, incl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everything New, Changed, and Fixed in DEX 3.20.4
 
 * New controller: [Pioneer DDJ-1000](https://www.pioneerdj.com/en-us/product/controller/ddj-1000/black/overview/)
@@ -60,10 +56,6 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623&ssl=1 623 1031 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2023-03-30 13:02:222023-04-10 17:03:36DEX 3.20.4 is Available Now with Support for Additional Pioneer DJ Controllers and More}
@@ -83,20 +75,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-decoding-vsdcs-technology-against-top-screen-recorder-competitors-for-2024/"><u>[New] Decoding VSDC's Technology Against Top Screen Recorder Competitors for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-open-source-video-software-for-all-users/"><u>[New] Navigating Open Source Video Software for All Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dive-into-deep-sleep-with-expert-recommended-aspers-tactics/"><u>[Updated] In 2024, Dive Into Deep Sleep with Expert-Recommended Asper's Tactics</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/boost-your-gpu-efficiency-tips-from-yl-computing/"><u>Boost Your GPU Efficiency - Tips From YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comprehensive-dell-data-protection-tutorial-for-windows-11-users/"><u>Comprehensive Dell Data Protection Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-pinpoint-precise-pictures-with-facebooks-search-tools/"><u>Comprehensive Guide to Pinpoint Precise Pictures with Facebook's Search Tools</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/decoding-beep-codes-understanding-your-motherboards-alert-signals-with-help-from-yl-computing-tech-experts/"><u>Decoding Beep Codes: Understanding Your Motherboard's Alert Signals with Help From YL Computing Tech Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-premium-free-srt-translation-services/"><u>In 2024, Unveiling Premium Free SRT Translation Services</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/reverting-your-pcs-system-a-step-by-step-guide-tech-solutions-with-xyz/"><u>Reverting Your PC's System: A Step-by-Step Guide - Tech Solutions with XYZ</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-adjusting-your-display-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Display Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-unpacking-rar-files-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Unpacking RAR Files on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-techniques-for-system-clashes-with-expert-advice-from-yl-software/"><u>Troubleshooting Techniques for System Clashes with Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-tips-resolving-incorrect-installation-of-your-scanners-drivers-yl-computing-guide/"><u>Troubleshooting Tips: Resolving Incorrect Installation of Your Scanner's Drivers - YL Computing Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-keeping-your-files-safe-with-these-5-steps/"><u>Ultimate Guide to Keeping Your Files Safe with These 5 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-the-microsoft-store-wont-install-an-app/"><u>What to Do If the Microsoft Store Won't Install an App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-editing-efforts-10-text-innovations/"><u>[Updated] 2024 Approved Top Editing Efforts 10 Text Innovations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-breakdown-of-lgs-premium-4k-screen-experience-for-2024/"><u>A Complete Breakdown of LG’s Premium 4K Screen Experience for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/comprehensive-review-the-three-premier-photo-recovery-tools-for-deleted-images/"><u>Comprehensive Review: The Three Premier Photo Recovery Tools for Deleted Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/deciding-fate-of-action-cams-hero5-black-and-yi-4k-showdown-update-for-2024/"><u>Deciding Fate of Action Cams Hero5 Black & Yi 4K Showdown Update for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-12-pro-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 12 Pro or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-successfully-troubleshoot-and-restore-windows-nearby-sharing-capabilities/"><u>How to Successfully Troubleshoot and Restore Windows Nearby Sharing Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-your-ipad-behind-the-times-a-comprehensive-update-check/"><u>Is Your iPad Behind the Times – A Comprehensive Update Check</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/seek-out-sites-that-connect-you-to-youtube-revenue-models-for-2024/"><u>Seek Out Sites That Connect You to YouTube Revenue Models for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/standout-nintendo-switch-fighting-games-index-max-156/"><u>Standout Nintendo Switch Fighting Games Index (Max 156)</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-process-for-transitioning-your-server-from-windows-server-2019-to-2022-edition/"><u>Step-by-Step Process for Transitioning Your Server From Windows Server 2019 to 2022 Edition</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-ranking-winpe-disk-cloning-tools-a-comprehensive-guide/"><u>Top-Ranking WinPE Disk Cloning Tools : A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/wie-sie-eine-versehentig-irgendwie-geloschte-datei-mit-datei-explorer-wiederherstellen/"><u>Wie Sie Eine Versehentig Irgendwie Gelöschte Datei Mit Datei-Explorer Wiederherstellen</u></a></li>
 </ul></div>
 

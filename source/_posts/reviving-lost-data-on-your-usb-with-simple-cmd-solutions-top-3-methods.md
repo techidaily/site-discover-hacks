@@ -1,7 +1,7 @@
 ---
 title: Reviving Lost Data on Your USB with Simple CMD Solutions (Top 3 Methods)
-date: 2025-02-07T00:27:04.917Z
-updated: 2025-02-09T01:05:09.468Z
+date: 2025-03-04T21:47:02.542Z
+updated: 2025-03-07T23:52:07.799Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a3cdb76d27eef05ccb7d85f2.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -31,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -89,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -113,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,17 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-water-world-leading-game-experience-hits/"><u>[New] In 2024, Innovative Water World Leading Game Experience Hits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>[New] Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-economic-sphere-of-the-philanthropic-mr-beast-for-2024/"><u>[Updated] The Economic Sphere of the Philanthropic Mr. Beast for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-level-text-templates-for-adobe-ae/"><u>2024 Approved Pro-Level Text Templates for Adobe AE</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/windows-11usb-m2-ssd/"><u>专业指南：使用Windows 11全面擦除USB M.2 SSD的安全方法</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/estrategias-eficaces-para-recuperar-informacion-olvidada-en-una-tarjeta-microsd/"><u>Estrategias Eficaces Para Recuperar Información Olvidada en Una Tarjeta microSD</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guida-per-scaricare-e-configurare-ghost-in-windows-11-link-completo-tramite-google-drive/"><u>Guida per Scaricare E Configurare Ghost in Windows 11, Link Completo Tramite Google Drive</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Phone?</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/master-moving-your-windows-7-system-to-a-new-pc-step-by-step-guide/"><u>Master Moving Your Windows 7 System to a New PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Razr 40 won’t play MP4 files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-interview-landscape-a-guide-for-2024/"><u>Navigating the Interview Landscape A Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[New] In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-go-live-on-youtube-with-minimum-follower-criteria-met-for-2024/"><u>[Updated] Go Live on Youtube with Minimum Follower Criteria Met for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-compreeved-guide-youtube-to-mp3mpeg-transcoding/"><u>[Updated] In 2024, Compreeved Guide YouTube to MP3/MPEG Transcoding</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streaming-showdown-gopro-hero5-black-vs-virb-ultra-30/"><u>[Updated] In 2024, Streaming Showdown GoPro Hero5 Black Vs. VIRB Ultra 30</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-xsplit-vault-expert-gaming-split-analysis-for-2024/"><u>[Updated] XSplit Vault Expert Gaming Split Analysis for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/creating-hilarious-world-cup-edition-fifa-gifs-without-using-photoshop/"><u>Creating Hilarious World Cup Edition FIFA GIFs Without Using Photoshop</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/easy-guide-moving-your-epub-files-directly-onto-an-iphone-without-using-itunes/"><u>Easy Guide: Moving Your EPUB Files Directly Onto an iPhone Without Using iTunes</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/einbinden-von-isos-in-windows-1087-eine-effiziente-methode-zum-brennen-von-daten-auf-dvds-erklart/"><u>Einbinden Von ISOs in Windows 10/8/7: Eine Effiziente Methode Zum Brennen Von Daten Auf DVDs Erklärt</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/enjoy-streaming-and-interactive-youtubing-on-the-go-optimized-for-samsungs-latest-galaxy-s21note-21-devices/"><u>Enjoy Streaming & Interactive YouTubing on the Go – Optimized for Samsung's Latest Galaxy S21/Note 21 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-ps4-controller-on-your-pc-or-mac/"><u>How to Use a PS4 Controller on Your PC or Mac</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/i-top-5-metodi-per-trasformare-i-tuoi-file-avchd-m2ts-in-mp4-superiori-preservando-completamente-lintegrita-della-quality/"><u>I Top 5 Metodi per Trasformare I Tuoi File AVCHD M2TS in MP4 Superiori, Preservando Completamente L'Integrità Della Quality!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mirthful-user-sign-up-saga/"><u>In 2024, Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-is-blender-crashing-on-my-pc-how-to-make-it-stop/"><u>Solution Steps: Why Is Blender Crashing on My PC? How to Make It Stop?</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-converting-videos-and-extracting-dvd-content-with-handbrake/"><u>Step-by-Step Guide: Converting Videos & Extracting DVD Content with HandBrake</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-instructions-for-converting-dvds-to-mp4-format-on-windowsmac-os-explore-10-reliable-techniques/"><u>Step-by-Step Instructions for Converting DVDs to MP4 Format on Windows/Mac OS – Explore 10 Reliable Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uniquely-branding-podcasts-expert-led-logo-insights/"><u>Uniquely Branding Podcasts Expert-Led Logo Insights</u></a></li>
 </ul></div>
 
